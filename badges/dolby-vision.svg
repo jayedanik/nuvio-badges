@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 114 32" height="32">
+  <rect width="114" height="32" rx="6" fill="#0A0A0A" stroke="#52525B" stroke-width="1.5"/>
+  <path d="M12 9h4a7 7 0 0 1 0 14h-4V9zm18 0h-4a7 7 0 0 0 0 14h4V9z" fill="#FFFFFF"/>
+  <text x="36" y="15" fill="#A1A1AA" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-weight="800" font-size="8" letter-spacing="1.2">DOLBY</text>
+  <text x="36" y="25" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-weight="900" font-size="10.5" letter-spacing="1.5">VISION</text>
+</svg>

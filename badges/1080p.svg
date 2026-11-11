@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 32" height="32">
+  <rect width="92" height="32" rx="6" fill="#0B132B" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="10" y="22" fill="#60A5FA" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-weight="900" font-size="16">1080p</text>
+  <text x="64" y="15" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-weight="700" font-size="7.5">FULL</text>
+  <text x="64" y="24" fill="#93C5FD" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-weight="700" font-size="7.5">HD</text>
+</svg>

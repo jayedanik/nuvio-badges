@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 32" height="32">
+  <rect width="96" height="32" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-width="1.5"/>
+  <text x="10" y="22" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-weight="900" font-size="15">HDR10</text>
+  <text x="74" y="23" fill="#38BDF8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-weight="900" font-size="19">+</text>
+</svg>

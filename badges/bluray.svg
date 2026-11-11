@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 32" height="32">
+  <rect width="92" height="32" rx="6" fill="#021329" stroke="#1D4ED8" stroke-width="1.5"/>
+  <text x="10" y="21" fill="#60A5FA" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-weight="900" font-size="13">Blu-ray</text>
+  <text x="64" y="21" fill="#93C5FD" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-weight="700" font-size="10">DISC</text>
+</svg>
