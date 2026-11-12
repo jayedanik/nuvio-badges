@@ -192,7 +192,7 @@
     <g transform="translate(600, 255)">
       <!-- Stat: Badges -->
       <g transform="translate(-240, 0)">
-        <text x="0" y="0" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="24" fill="url(#accent-glow)">373</text>
+        <text x="0" y="0" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="24" fill="url(#accent-glow)">394</text>
         <text x="0" y="18" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-weight="400" font-size="10" fill="#6e7681" letter-spacing="2">BADGES</text>
       </g>
       

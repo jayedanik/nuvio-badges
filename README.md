@@ -4,14 +4,14 @@
 
 <p align="center">
   <a href="https://github.com/jayedanik/nuvio-badges"><img src="https://img.shields.io/badge/Nuvio-Badge_System-00f2fe?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTggNXYxNGwxMS03eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white" alt="Nuvio" /></a>
-  <a href="badges.json"><img src="https://img.shields.io/badge/Badges-373_Pristine-9b51e0?style=for-the-badge" alt="Badges" /></a>
+  <a href="badges.json"><img src="https://img.shields.io/badge/Badges-394_Pristine-9b51e0?style=for-the-badge" alt="Badges" /></a>
   <a href="badges.json"><img src="https://img.shields.io/badge/Scale-96px_StreamBridge-00ff88?style=for-the-badge" alt="96px Scale" /></a>
   <a href="#-master-badge-ecosystem"><img src="https://img.shields.io/badge/OLED-High_Contrast-ff007f?style=for-the-badge" alt="OLED" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-ffd700?style=for-the-badge" alt="License" /></a>
 </p>
 
 <p align="center">
-  <sub>Next-gen floating vector badges for Nuvio media player — 373 custom badges across 65+ streaming services, cinema studios, 4K/8K formats, immersive audio, and 89 world languages.<br/>Engineered for pure background-free playback, zero loading lag (~3 MB total footprint), and seamless TV/PC legibility.</sub>
+  <sub>Next-gen floating vector badges for Nuvio media player — 394 custom badges across 65+ streaming services, cinema studios, 4K/8K formats, immersive audio, and 110+ world countries & languages.<br/>Engineered for pure background-free playback, zero loading lag (~3.1 MB total footprint), and seamless TV/PC legibility.</sub>
 </p>
 
 ---
@@ -65,7 +65,7 @@ Every streaming platform, Bengali OTT, Indian network, and Hollywood studio is c
 | 11 | `release` | **Release Flags** | Proper, Repack, Internal, Limited, Season Pack, V2 Revised |
 | 12 | `container` | **Containers** | MKV Container, MP4 Container, M2TS Blu-Ray, AVI Container, TS Stream |
 | 13 | `subtitle` | **Subtitles** | ESUB English, Multi-Subs, SDH Deaf/HOH, VOSTFR French, Forced Subs |
-| 14 | `language` | **Languages & Flags** | 🇧🇩 Bangladesh (#1 Priority), India 🇮🇳 Hindi, South Korea 🇰🇷 Korean, Japan 🇯🇵 Japanese, USA 🇺🇸 English, UK 🇬🇧 British, Tamil, Telugu, Malayalam, Punjabi, French, German, Spanish, Russian, Arabic, + 70 more |
+| 14 | `language` | **Languages & Countries** | 🇧🇩 Bangladesh (#1 Priority), India 🇮🇳 Hindi, South Korea 🇰🇷, Japan 🇯🇵, USA 🇺🇸, UK 🇬🇧, Canada 🇨🇦, Australia 🇦🇺, New Zealand 🇳🇿, Mexico 🇲🇽, Argentina 🇦🇷, Taiwan 🇹🇼, Hong Kong 🇭🇰, Pakistan 🇵🇰, South Africa 🇿🇦, Nigeria 🇳🇬, Egypt 🇪🇬, Belgium 🇧🇪, Switzerland 🇨🇭, Austria 🇦🇹, Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿, Singapore 🇸🇬, Colombia 🇨🇴, Chile 🇨🇱, Morocco 🇲🇦, Portugal 🇵🇹, Brazil 🇧🇷, + 80 more |
 | 15 | `live` | **Live TV** | LIVE, 24/7, PPV, HD/SD Feeds, Catch-up |
 
 ---
@@ -108,7 +108,7 @@ Every streaming platform, Bengali OTT, Indian network, and Hollywood studio is c
 * **Vector Supersampling:** Text badges and flags rendered from TrueType vector fonts at 4x resolution (384px height) and downsampled with `Lanczos` filtering for buttery-smooth curves with zero jagged artifacts.
 * **OLED Contrast Calibration:** Pure `#FFFFFF` radiant white glyphs, `#E1E6F2` high-contrast sub-text, and vivid brand hues without muddy halos or dark drop-shadow smears.
 * **100% Background-Free:** Clean transparent alpha channel (`tagColor: #00000000`, `borderColor: "#00000000"`, `tagStyle: "filled"`) — no unwanted black boxes on PC or TV.
-* **Ultra-Lightweight Footprint:** The entire 373-badge ecosystem occupies just **3.04 MB** (~8 KB average per file), loading in milliseconds with zero memory pressure.
+* **Ultra-Lightweight Footprint:** The entire 394-badge ecosystem occupies just **3.18 MB** (~8 KB average per file), loading in milliseconds with zero memory pressure.
 
 ---
 
