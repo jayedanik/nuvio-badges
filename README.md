@@ -43,7 +43,7 @@ Badges are sequenced in the authentic **StreamBridge Golden Order**, ensuring ev
 ## 📋 Comprehensive Feature Highlights
 
 ### 1. 100% Transparent Floating Vector Badges (No Boxes, No Pills)
-- **Zero background rectangles or clunky pills**: every badge floats naturally over your backdrop.
+- **Zero background rectangles or clunky pills**: every badge floats naturally over your backdrop with mathematically uniform 36px optical baseline.
 - Clean **Text-White typography** for technical specs (Codecs, Channels, Sources, Editions).
 - Authentic **vector brand wordmarks** with native corporate colors (Netflix Red, Prime Video Blue, Disney+ Ice, Max Purple, Apple White, Paramount Blue).
 
@@ -90,5 +90,5 @@ Badges are sequenced in the authentic **StreamBridge Golden Order**, ensuring ev
 
 ## 🛠️ Maintained By
 
-Developed & curated with ❤️ by [@jayedanik](https://github.com/jayedanik).
+Developed & curated with ❤️ by [@jayedanik](https://github.com/jayedanik).  
 Licensed under MIT.
