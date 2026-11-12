@@ -1619,7 +1619,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "filled",
-      "isEnabled": true,
+      "isEnabled": false,
       "type": "filter"
     },
     {
