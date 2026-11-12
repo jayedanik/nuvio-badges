@@ -10,24 +10,26 @@
 </p>
 
 <p align="center">
-  <sub>Floating vector badges for Nuvio media player — 317 badges across 65+ platforms, studios, codecs, and languages.<br/>OLED dark-mode optimized. Optically balanced at 64px canvas height. Zero pill boxes, pure transparent overlays.</sub>
+  <sub>Floating vector badges for Nuvio media player — 317 badges across 65+ streaming services, cinema studios, formats, and languages.<br/>OLED contrast calibrated. Balanced optical scale. Pure transparent overlays.</sub>
 </p>
 
 ---
 
 ### ⚡ Quick Setup
 
-Paste this URL into **Nuvio Player → Settings → Markers / Badges**:
+Paste this direct manifest URL into **Nuvio Player → Settings → Markers / Badges**:
 
 ```
 https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
 ```
 
-> Nuvio syncs badge definitions automatically. Every stream title renders with floating vector badges — no further configuration needed.
+> **Automated Sync:** Nuvio dynamically syncs all badge definitions. Stream listings across films, web series, anime, and live feeds will immediately illuminate with optical vector badges.
 
 ---
 
-### 🎬 Live Demo
+### 🎬 Live Player Experience
+
+Experience the interactive stream selection interface with zero edge clipping, calibrated margins, and dynamic focus illumination:
 
 <p align="center">
   <img src="previews/nuvio-player-demo.gif" alt="Nuvio Stream Selector Demo" width="100%" />
@@ -35,15 +37,9 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
 
 ---
 
-### 💎 Stream Engine Preview
+### 💎 Master Badge Ecosystem
 
-<p align="center">
-  <img src="previews/hero-banner.png" alt="Nuvio Cinematic Stream Engine" width="100%" />
-</p>
-
----
-
-### 📦 Badge Ecosystem
+Every streaming platform, Bengali OTT, Indian network, and Hollywood studio is contrast-tuned specifically for dark OLED themes with balanced optical sizing:
 
 <p align="center">
   <img src="previews/badge-showcase.png" alt="Complete Badge Ecosystem" width="100%" />
@@ -51,11 +47,11 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
 
 ---
 
-### 🏗️ Architecture
+### 🏗️ Architecture & Hierarchy
 
 | # | Group ID | Category | Coverage |
 |:-:|:---------|:---------|:---------|
-| 1 | `service` | **Streaming & Studios** | Netflix, Prime Video, Disney+, Apple TV+, HBO Max, Hulu, Peacock, Paramount+, Crunchyroll, MUBI, Criterion, Hoichoi, Chorki, Toffee, Binge BD, JioHotstar, Zee5, SonyLIV, A24, Marvel, DC, Pixar, Lucasfilm, DreamWorks, + 40 more |
+| 1 | `service` | **Streaming & Studios** | Netflix, Prime Video, Disney+, Apple TV+, HBO Max, Hulu, Peacock, Paramount+, Crunchyroll, MUBI, Criterion, Hoichoi, Chorki, Toffee, Binge BD, JioHotstar, Zee5, SonyLIV, Warner Bros, Universal, Paramount, Columbia, Marvel, DC, Pixar, Lucasfilm, + 40 more |
 | 2 | `resolution` | **Resolution** | 4K, 1080p, 720p, 480p, 8K, SD |
 | 3 | `quality` | **Quality Tiers** | HDR10, HDR10+, Dolby Vision, HLG, SDR |
 | 4 | `depth` | **Bit Depth** | 10-bit, 8-bit, 12-bit |
@@ -68,7 +64,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
 | 11 | `release` | **Release Flags** | Proper, Repack, Internal, Limited, Season Pack, V2, Sample |
 | 12 | `container` | **Containers** | MKV, MP4, M2TS, AVI |
 | 13 | `subtitle` | **Subtitles** | ESub, MSubs, SDH, VOSTFR, Forced Subs |
-| 14 | `language` | **Languages & Flags** | 🇧🇩 Bangladesh (#1), Hindi, Urdu, Nepali, Sinhala, Japanese, Korean, Chinese, Cantonese, Thai, Vietnamese, Indonesian, Malay, Filipino, Khmer, Lao, Burmese, French, German, Italian, Russian, Ukrainian, Polish, Czech, Slovak, + more |
+| 14 | `language` | **Languages & Flags** | 🇧🇩 Bangladesh (#1 Priority), Hindi, Urdu, Nepali, Sinhala, Japanese, Korean, Chinese, Cantonese, Thai, Vietnamese, Indonesian, Malay, Filipino, French, German, Italian, Russian, + 20 more |
 | 15 | `live` | **Live TV** | LIVE, 24/7, PPV, HD/SD Feeds, Catch-up |
 
 ---
@@ -154,15 +150,13 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
 
 ### 🔬 Technical Specs
 
-- **Canvas:** 64px height, transparent `.webp`, lossless
-- **Optical Balancing:** Square emblems at 48px visual, wide wordmarks at 30–34px
-- **OLED Engine:** 19+ black silhouettes converted to pure white; dark text brightened per brand color
-- **Patterns:** PCRE-compatible regex with word boundaries
-- **Colors:** All `#00000000` (fully transparent) — Nuvio renders pure floating badges
-- **Manifest:** `badges.json` at repo root, served via GitHub raw CDN
+- **Canvas Standard:** 64px height, high-DPI transparent `.webp`, lossless compression
+- **Optical Balance:** Square emblems rendered at 32–34px visual height, wide wordmarks balanced at 22–26px visual height (no tiny specks or oversized blocks)
+- **OLED Contrast:** Dark hues boosted with calibrated vibrance curves for crystal readability on true-black displays
+- **Nuvio Integration:** Fully transparent alpha channel (`#00000000`) for seamless floating integration
 
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/jayedanik">@jayedanik</a></sub>
+  <sub>Engineered with precision by <a href="https://github.com/jayedanik">@jayedanik</a></sub>
 </p>
