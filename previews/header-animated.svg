@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
+  <defs>
+    <!-- Background Radial Gradient -->
+    <radialGradient id="bgGlow" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#141c30" />
+      <stop offset="60%" stop-color="#080b12" />
+      <stop offset="100%" stop-color="#040508" />
+    </radialGradient>
+
+    <!-- Animated Neon Gradient -->
+    <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe">
+        <animate attributeName="stop-color" values="#00f2fe;#4facfe;#9b51e0;#ff0844;#ffb199;#00f2fe" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#9b51e0">
+        <animate attributeName="stop-color" values="#9b51e0;#ff0844;#ffb199;#00f2fe;#4facfe;#9b51e0" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#00f2fe">
+        <animate attributeName="stop-color" values="#00f2fe;#4facfe;#9b51e0;#ff0844;#ffb199;#00f2fe" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Shimmer Sweep -->
+    <linearGradient id="shimmer" x1="-100%" y1="0%" x2="200%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.8">
+        <animate attributeName="stop-opacity" values="0;0.9;0" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+      <animate attributeName="x1" from="-100%" to="100%" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="x2" from="0%" to="200%" dur="3s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <!-- Soft Ambient Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur" />
+      <feMerge>
+        <feMergeNode in="coloredBlur" />
+        <feMergeNode in="coloredBlur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="subtleGlow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur" />
+      <feMerge>
+        <feMergeNode in="coloredBlur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes pulse {
+      0% { opacity: 0.4; transform: scale(0.98); }
+      50% { opacity: 0.9; transform: scale(1.02); }
+      100% { opacity: 0.4; transform: scale(0.98); }
+    }
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-4px); }
+      100% { transform: translateY(0px); }
+    }
+    .neon-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 900;
+      letter-spacing: 6px;
+      text-transform: uppercase;
+    }
+    .sub-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 500;
+      letter-spacing: 3px;
+      fill: #a0aec0;
+    }
+    .badge-pill {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+    }
+    .live-dot {
+      animation: pulse 1.8s infinite ease-in-out;
+    }
+  </style>
+
+  <!-- Canvas Frame -->
+  <rect width="1200" height="320" rx="16" fill="url(#bgGlow)" stroke="#232d42" stroke-width="1.5" />
+
+  <!-- Ambient Light Orbs -->
+  <circle cx="600" cy="90" r="160" fill="#00f2fe" opacity="0.08" filter="url(#glow)" />
+  <circle cx="350" cy="180" r="120" fill="#9b51e0" opacity="0.06" filter="url(#glow)" />
+  <circle cx="850" cy="180" r="120" fill="#ff0844" opacity="0.05" filter="url(#glow)" />
+
+  <!-- Grid Pattern Overlay -->
+  <g opacity="0.07" stroke="#ffffff" stroke-width="0.5">
+    <line x1="0" y1="80" x2="1200" y2="80" />
+    <line x1="0" y1="160" x2="1200" y2="160" />
+    <line x1="0" y1="240" x2="1200" y2="240" />
+    <line x1="200" y1="0" x2="200" y2="320" />
+    <line x1="400" y1="0" x2="400" y2="320" />
+    <line x1="600" y1="0" x2="600" y2="320" />
+    <line x1="800" y1="0" x2="800" y2="320" />
+    <line x1="1000" y1="0" x2="1000" y2="320" />
+  </g>
+
+  <!-- Status Chip: Top Center -->
+  <g transform="translate(485, 32)">
+    <rect width="230" height="30" rx="15" fill="#0d1424" stroke="#253554" stroke-width="1" />
+    <circle cx="18" cy="15" r="5" fill="#00ff88" class="live-dot" />
+    <text x="32" y="20" fill="#88e0b0" class="badge-pill" font-size="11">OFFICIAL MASTER KIT • 317+</text>
+  </g>
+
+  <!-- Master Title -->
+  <text x="600" y="135" text-anchor="middle" fill="url(#neonGradient)" class="neon-text" font-size="46" filter="url(#subtleGlow)">
+    NUVIO MASTER BADGES
+  </text>
+
+  <!-- Tagline -->
+  <text x="600" y="178" text-anchor="middle" class="sub-text" font-size="15">
+    THE LUXURY CINEMATIC STREAM BADGE ENGINE FOR NUVIO PLAYER
+  </text>
+
+  <!-- Feature Pills Bar -->
+  <g transform="translate(140, 225)">
+    <!-- Pill 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="210" height="42" rx="10" fill="#101726" stroke="#2a3b5c" stroke-width="1.2" />
+      <text x="105" y="26" text-anchor="middle" fill="#ffffff" class="badge-pill">✨ 100% PURE FLOATING</text>
+    </g>
+
+    <!-- Pill 2 -->
+    <g transform="translate(230, 0)">
+      <rect width="210" height="42" rx="10" fill="#101726" stroke="#2a3b5c" stroke-width="1.2" />
+      <text x="105" y="26" text-anchor="middle" fill="#00f2fe" class="badge-pill">📏 36PX OPTICAL LOCK</text>
+    </g>
+
+    <!-- Pill 3 -->
+    <g transform="translate(460, 0)">
+      <rect width="220" height="42" rx="10" fill="#101726" stroke="#2a3b5c" stroke-width="1.2" />
+      <text x="110" y="26" text-anchor="middle" fill="#ff4d4d" class="badge-pill">🇧🇩 BD &amp; 🇮🇳 OTT MAJORS</text>
+    </g>
+
+    <!-- Pill 4 -->
+    <g transform="translate(700, 0)">
+      <rect width="220" height="42" rx="10" fill="#101726" stroke="#2a3b5c" stroke-width="1.2" />
+      <text x="110" y="26" text-anchor="middle" fill="#ffd700" class="badge-pill">🎬 HOLLYWOOD STUDIOS</text>
+    </g>
+  </g>
+</svg>

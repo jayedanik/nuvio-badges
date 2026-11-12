@@ -1,12 +1,18 @@
-# 🎬 Nuvio Original & Minimal Master Badge System
+<p align="center">
+  <img src="previews/header-animated.svg" alt="Nuvio Master Badges" width="100%" />
+</p>
 
-An authentic, ultra-clean, background-free stream badge system designed specifically for **Nuvio** media player.
-
-Featuring **100% pure transparent floating brand logos**, **StreamBridge Serial Hierarchy**, complete coverage of **Bangladeshi & Bengali OTTs**, **Indian National & Regional OTTs**, **Major Hollywood & World Film Studios**, **Studio Audio/Video Assets**, and crisp **minimalist typography** (zero clunky pill wrappers).
+<p align="center">
+  <a href="https://github.com/jayedanik/nuvio-badges"><img src="https://img.shields.io/badge/Nuvio-Official_Badge_Pack-00f2fe?style=for-the-badge&logo=playstation&logoColor=white" alt="Nuvio Badge Pack" /></a>
+  <a href="badges.json"><img src="https://img.shields.io/badge/Total_Badges-317_Verified-9b51e0?style=for-the-badge&logo=shield" alt="Total Badges" /></a>
+  <a href="#-optical-baseline-standard"><img src="https://img.shields.io/badge/Height-36px_Uniform_Lock-00ff88?style=for-the-badge" alt="Height Standard" /></a>
+  <a href="#-bangladeshi--bengali-ott-coverage"><img src="https://img.shields.io/badge/Bangladesh_🇧🇩-%231_National_Priority-f42a41?style=for-the-badge" alt="Bangladesh #1" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-ffd700?style=for-the-badge" alt="License" /></a>
+</p>
 
 ---
 
-## ⚡ 1-Click Setup for Nuvio
+## ⚡ 1-Click Instant Setup for Nuvio
 
 Copy and paste this URL directly into **Nuvio Player Settings ➔ Markers / Badges**:
 
@@ -14,81 +20,94 @@ Copy and paste this URL directly into **Nuvio Player Settings ➔ Markers / Badg
 https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
 ```
 
+> **Pro Tip:** Nuvio automatically downloads and updates the badge cache dynamically. Once pasted, every stream across movies, series, anime, and live TV will immediately render with the flagship floating badge engine.
+
 ---
 
-## 💎 Live In-App Stream Appearance (StreamBridge Serial Hierarchy)
+## 🎬 Live Interactive In-App Experience
 
-Badges are sequenced in the authentic **StreamBridge Golden Order**, ensuring every stream title is organized logically from source to release details:
+<p align="center">
+  <img src="previews/animated-showcase.gif" alt="Nuvio Interactive Stream Selector" width="100%" />
+</p>
+
+---
+
+## 💎 The Cinematic OLED Presentation
+
+<p align="center">
+  <img src="previews/hero-cinematic.png" alt="Nuvio Cinematic Stream Engine" width="100%" />
+</p>
+
+---
+
+## 🌟 Studio & Platform Galaxy
+
+Every platform and film studio logo is meticulously color-calibrated with **pure vector contrast tuning**—ensuring absolute, crystal-clear readability over dark OLED backgrounds with zero clunky pill boxes.
+
+<p align="center">
+  <img src="previews/studio-constellation.png" alt="Studio & Platform Galaxy" width="100%" />
+</p>
+
+---
+
+## 🎨 Complete Visual Master Catalog (16 Structured Categories)
+
+<p align="center">
+  <img src="previews/master-catalog.png" alt="Nuvio Complete Master Catalog" width="100%" />
+</p>
+
+---
+
+## 🚀 Why Nuvio Master Badges Stand Apart
+
+### 1. 📐 Mathematical 36px Optical Baseline Standard
+Unlike legacy badge packs where logos range wildly from 14px to 260px causing jagged, chaotic baselines, **every single asset in this collection is locked to a mathematically uniform 36px canvas**. Wide horizontal wordmarks and square emblems sit on the exact same optical centerline.
+
+### 2. ✨ 100% Pure Floating Vector Styling (Zero Pill Wrappers)
+- No cheap gray pill outlines, no clumsy boxes, and no artificial borders.
+- Badges float natively over backdrops just like Apple TV+, Netflix, and flagship Sony Bravia interfaces.
+- Studio wordmarks, dynamic range icons, and flag emblems feel like an integral part of the media player HUD.
+
+### 3. 🌓 OLED Dark-Mode Contrast Engine
+All pure-black vectors (A24, Universal, Pixar, Lucasfilm, Columbia, Disney Castle, DreamWorks, 20th Century Studios, Lionsgate, Blumhouse, Studio Ghibli, Focus Features, Searchlight, Legendary, Channel 4, DAZN) have been converted to **brilliant crisp white**, while colored logos (Peacock, Aha, Toffee, Binge, DeeptoPlay, JioCinema, SonyLIV) have their text illuminated for instant legibility against dark video backdrops.
+
+### 4. 🇧🇩 Bangladesh (#1) & South Asian Streaming Mastery
+- **Bangladesh Flag (🇧🇩) is ranked #1** at the very top of national flags with constitutional 45% offset crimson disk on bottle green.
+- **Complete Bangladeshi & Bengali OTT Coverage**: Hoichoi (`HC`, `HC.WEB-DL`), Chorki, Toffee, Binge BD, Bioscope, Bongo BD, DeeptoPlay, Banglaflix, Cinematic BD, RabbitholeBD, KLIKK, Addatimes, SVF Entertainment, and Jaaz Multimedia.
+- **Indian National & Regional Titans**: JioHotstar, JioCinema, Zee5, SonyLIV, Sun NXT, Aha Video (Telugu/Tamil), MX Player, Eros Now, Hungama Play, ALTT, Ullu, ShemarooMe, ManoramaMAX (Malayalam), Chaupal (Punjabi/Haryanvi/Bhojpuri), Planet Marathi, Stage, YRF, Dharma Productions, Red Chillies Entertainment, and T-Series.
+
+---
+
+## 🏛️ StreamBridge Golden Serial Ordering
+
+Badges are sequenced in the authentic **StreamBridge Golden Hierarchy**, organizing stream metadata logically from source to release details:
 
 ```text
-[Platform / Studio] ➔ [Resolution] ➔ [HDR / IMAX] ➔ [Video Codec] ➔ [Bit-Depth] ➔ [Frame Rate] ➔ [Audio] ➔ [Channels] ➔ [Source] ➔ [Edition] ➔ [Delivery] ➔ [Country / Flag] ➔ [Subtitles]
+[Platform / Studio] ➔ [Resolution] ➔ [HDR / IMAX] ➔ [Video Codec] ➔ [Bit-Depth] ➔ [Frame Rate] ➔ [Audio] ➔ [Channels] ➔ [Source] ➔ [Edition] ➔ [Delivery] ➔ [Country / Flag] ➔ [Subtitles] ➔ [Flags] ➔ [Container] ➔ [Live]
 ```
 
-![Nuvio In-App Stream Showcase](previews/stream-preview.png)
-
----
-
-## 🎨 Complete Visual Master Catalog
-
-![Nuvio Master Catalog](previews/master-catalog.png)
-
----
-
-## 🌟 Transparent Floating Brand Logos Showcase
-
-![Official Brand Logos](previews/brand-logos.png)
-
----
-
-## 📋 Comprehensive Feature Highlights
-
-### 1. 100% Transparent Floating Vector Badges (No Boxes, No Pills)
-- **Zero background rectangles or clunky pills**: every badge floats naturally over your backdrop with mathematically uniform 36px optical baseline.
-- Clean **Text-White typography** for technical specs (Codecs, Channels, Sources, Editions).
-- Authentic **vector brand wordmarks** with native corporate colors (Netflix Red, Prime Video Blue, Disney+ Ice, Max Purple, Apple White, Paramount Blue).
-
-### 2. StreamBridge Serial Group Ordering (16 Structured Categories)
-1. **Streaming Service & Studios** (`service`) — Where the stream originated or was produced.
-2. **Resolution** (`resolution`) — 8K, 4K UHD, 1440p QHD, 1080p FHD, 720p HD, 576p, 480p SD.
-3. **HDR & Dynamic Range** (`hdr`) — Dolby Vision (Profile 5/7/8), HDR10+, HDR10, HDR, HLG, SDR, IMAX Enhanced, IMAX, 3D.
-4. **Video Codec** (`codec`) — HEVC (H.265), AVC (H.264), AV1 Next-Gen, VVC (H.266), VP9, VC-1, MPEG-2.
-5. **Color Bit Depth** (`bit-depth`) — 10-Bit, 12-Bit, 8-Bit.
-6. **Frame Rate** (`framerate`) — 120 FPS, 60 FPS, 50 FPS, HFR.
-7. **Audio Format** (`audio`) — Dolby Atmos, Dolby TrueHD, Dolby Digital Plus (E-AC-3), Dolby Digital (AC-3), DTS:X, DTS-HD Master Audio, DTS-HD HRA, DTS, AAC, FLAC Lossless, OPUS, MP3, LPCM.
-8. **Audio Channels** (`channels`) — 7.1 Surround, 6.1 Surround, 5.1 Surround, 2.0 Stereo, 1.0 Mono.
-9. **Source & Rip Type** (`source`) — REMUX (Lossless), Full Disc, UHD Blu-ray, Blu-ray, DVD REMUX, WEB-DL, WEBRip, HDRip, HDTV, DVDRip, CAM / Telesync.
-10. **Edition & Special Cuts** (`edition`) — Director's Cut, Extended Cut, Theatrical, Criterion Collection, Remastered, Unrated, Special Anniversary, Uncensored, Hybrid, Open Matte, Black & White.
-11. **Debrid & Delivery** (`delivery`) — Cached [RD+], Real-Debrid, TorBox, AllDebrid, Premiumize, USENET, P2P, Direct, 50 GB+ Large File.
-12. **Audio Language & Flags** (`language`) — **Bangladesh (🇧🇩) #1**, India (🇮🇳 Hindi, Tamil, Telugu, Malayalam, Kannada, Punjabi, Marathi, Gujarati), USA/UK English, Japan, Korea, France, Germany, Spain, Italy, Russia, China, Dual Audio, Multi Audio, Original Audio.
-13. **Subtitles** (`subtitles`) — Embedded Subs (ESub), Multi-Subtitles (MSubs), SDH, Forced Subs, VOSTFR.
-14. **Release Flags** (`flags`) — PROPER, REPACK, INTERNAL, LIMITED, Season Pack, Anime Batch v2.
-15. **Container Format** (`container`) — MKV, MP4, M2TS, AVI.
-16. **Live TV** (`live`) — LIVE, 24/7, PPV, HD/SD feeds, Catch-up.
-
-### 3. Bangladeshi & Bengali OTT Coverage (Bulletproof Regex)
-- **Hoichoi (`HC`, `HC.WEB-DL`, `[HC]`, `hmp`)** — Full support for Bangladeshi and West Bengal scene releases.
-- **Chorki (`CHORKI`, `chorki.com`)**
-- **Toffee (`TOFFEE`, `Beximco`)**
-- **Binge BD (`BINGE`, `Redgroove`)**
-- **Bioscope (`BIOC`, `BioscopeLive`)**
-- **Bongo BD (`BONGO`)**
-- **DeeptoPlay (`DEEPTO`, `DeeptoTV`)**
-- **Banglaflix (`BFLIX`)**
-- **Cinematic BD (`CINEMATIC`)**
-- **RabbitholeBD (`RABBITHOLE`)**
-- **KLIKK (`KLIKK`)**
-- **Addatimes (`ADDATIMES`)**
-
-### 4. Indian National & Regional OTT Coverage
-- **JioHotstar**, **JioCinema**, **Zee5**, **SonyLIV**, **Sun NXT**, **Aha Video**, **MX Player**, **Eros Now**, **Hungama Play**, **ALTT / ALTBalaji**, **Ullu**, **ShemarooMe**, **ManoramaMAX**, **Chaupal**, **Planet Marathi**, **Stage**.
-
-### 5. Major Film Studios & Production Houses
-- **Hollywood / International**: A24, Warner Bros. Pictures, Universal Pictures, Paramount Pictures, Columbia Pictures (Sony), Marvel Studios, DC Studios, Lucasfilm, Pixar Animation, 20th Century Studios, Lionsgate, NEON, Blumhouse, Studio Ghibli.
-- **Indian & Bengali**: Yash Raj Films (YRF), Dharma Productions, Red Chillies Entertainment, SVF Entertainment, Jaaz Multimedia.
+| Order | Group ID | Category | Coverage Highlights |
+|:---:|:---|:---|:---|
+| **01** | `service` | **Streaming & Studios** | Hollywood Majors, South Asian OTTs, Global Streamers, Japanese Anime |
+| **02** | `resolution` | **Resolution** | 8K UHD, 4K UHD, 1440p QHD, 1080p FHD, 720p HD, 576p, 480p SD |
+| **03** | `hdr` | **HDR & Dynamic Range** | Dolby Vision (P5/P7/P8), HDR10+, HDR10, HLG, SDR, IMAX Enhanced, 3D |
+| **04** | `codec` | **Video Codecs** | AV1 Next-Gen, VVC (H.266), HEVC (H.265), AVC (H.264), VP9, VC-1, MPEG-2 |
+| **05** | `bit-depth` | **Color Bit Depth** | 10-Bit Studio Color, 12-Bit Cinema Master, 8-Bit Standard |
+| **06** | `framerate` | **Frame Rate** | 120 FPS, 60 FPS High-Motion, 50 FPS PAL, HFR Cinema |
+| **07** | `audio` | **Audio Formats** | Dolby Atmos, Dolby TrueHD, Dolby Digital Plus, DTS:X, DTS-HD MA, FLAC, AAC |
+| **08** | `channels` | **Audio Channels** | 7.1 Surround, 6.1 Surround, 5.1 Surround, 2.0 Stereo, 1.0 Mono |
+| **09** | `source` | **Source & Rip Type** | REMUX (Lossless), Full Disc, UHD Blu-ray, Blu-ray, WEB-DL, WEBRip, HDTV |
+| **10** | `edition` | **Editions & Cuts** | Director's Cut, Extended Cut, Theatrical, Criterion, Remastered, IMAX, Hybrid |
+| **11** | `delivery` | **Debrid & Delivery** | Cached [RD+], Real-Debrid, TorBox, AllDebrid, Premiumize, USENET, P2P |
+| **12** | `language` | **Audio Languages & Flags** | **Bangladesh (🇧🇩) #1**, India (🇮🇳 Hindi, Tamil, Telugu, Malayalam, etc.), Global |
+| **13** | `subtitles` | **Subtitles** | Embedded Subs (ESub), Multi-Subs (MSubs), SDH Hearing Impaired, Forced Subs |
+| **14** | `flags` | **Release Flags** | PROPER, REPACK, INTERNAL, LIMITED, Season Pack, Anime Batch v2 |
+| **15** | `container` | **Containers** | MKV, MP4, M2TS, AVI |
+| **16** | `live` | **Live TV & Feeds** | LIVE, 24/7 Streams, PPV Event, HD/SD Feeds, Catch-up TV |
 
 ---
 
 ## 🛠️ Maintained By
 
-Developed & curated with ❤️ by [@jayedanik](https://github.com/jayedanik).  
-Licensed under MIT.
+Curated and engineered with ❤️ by [@jayedanik](https://github.com/jayedanik).  
+Contributions and issue reports are always welcome!
