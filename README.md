@@ -18,7 +18,8 @@
 
 ### 📑 Quick Navigation
 
-* [⚡ Quick Setup](#-quick-setup)
+* [⚡ Quick Setup & Manifests](#-quick-setup--manifests)
+* [🎨 9 Masterpiece Theme Collections](#-9-masterpiece-theme-collections)
 * [🎬 Live Player Experience](#-live-player-experience)
 * [🚀 Performance & Zero-Lag Architecture](#-performance--zero-lag-architecture)
 * [💎 Master Badge Ecosystem](#-master-badge-ecosystem)
@@ -30,15 +31,39 @@
 
 ---
 
-### ⚡ Quick Setup
+### ⚡ Quick Setup & Manifests
 
-Paste this direct manifest URL into **Nuvio Player → Settings → Markers / Badges**:
+Paste any of the following direct manifest URLs into **Nuvio Player → Settings → Markers / Badges**:
 
+#### 🌟 Flagship Default (Pristine Floating OLED Vector)
 ```
 https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
 ```
 
-> **Automated Sync:** Nuvio dynamically syncs all badge definitions. Stream listings across films, web series, anime, sports, and live feeds will immediately illuminate with optical vector badges.
+---
+
+### 🎨 9 Masterpiece Theme Collections
+
+Explore 9 radically distinct physical materials, silhouettes, and lighting architectures—all pre-rendered to Nuvio's exact 96px standard with zero scaling overhead and feather-light WebP compression:
+
+<p align="center">
+  <img src="previews/themes-showcase.png" alt="Nuvio 9 Masterpiece Theme Collections" width="100%" />
+</p>
+
+| # | Theme Collection | Material & Design Philosophy | 1-Click Direct Nuvio Manifest URL |
+|:-:|:---|:---|:---|
+| **0** | **Pristine Master (Default)** | Ultra-clean floating OLED vector text (100% frozen & safe) | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json` |
+| **1** | **GMK Custom Keycaps** | Classic Dark PBT Mechanical Hardware with spherical scoop & skirt drop shadow | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/gmk-keycaps.json` |
+| **2** | **Neon RGB Pudding Keycaps** | Translucent milky pudding keycaps with multi-color RGB underglow & Cherry MX stem | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/rgb-keycaps.json` |
+| **3** | **Royal Golden Cinema Ticket** | Vintage Broadway ticket stub with 24K double gold pinstripes & side notches | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/cinema-ticket.json` |
+| **4** | **Cloisonné Enamel Pins** | Cast 3D brass metal boundaries, liquid glass enamel pool & specular shine | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/enamel-pins.json` |
+| **5** | **1980s Vintage VHS Tape** | Warm aged matte paper, left vertical barcode stamp & 80s rainbow cassette stripe | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/vhs-tape.json` |
+| **6** | **Cinema Clapperboard** | Iconic B&W chevron clapper sticks, metal hinge bolts & blackboard slate | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/clapperboard.json` |
+| **7** | **Audiophile Vintage VFD** | Brushed aluminium chassis, smoked glass window & glowing VFD characters | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/audiophile-vfd.json` |
+| **8** | **Neo-Tokyo Tech Tag** | Acronym cyberpunk tech tag with vibrant left accent stripe & clean HUD specs | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/neotokyo-tag.json` |
+| **9** | **Criterion 24K Gold Leather** | Midnight leather grain, hot-stamped 24K gold foil debossed frame & corner diamonds | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/criterion-leather.json` |
+
+> **Automated Fallback:** Each theme styles all resolution, HDR, audio, codec, source, and cache specs while seamlessly falling back to high-resolution vector logos for obscure regional channels and studios. Zero missing badges. Zero broken icons.
 
 ---
 
