@@ -1,7 +1,5 @@
-# 🎬 Nuvio Master Badges — Flagship Stream Badge System
-
 <p align="center">
-  <img src="previews/hero-banner.png" alt="Nuvio Cinematic Stream Engine" width="100%" />
+  <img src="previews/title-hero-animated.gif" alt="Nuvio Master Badges — Flagship Animated Title Screen" width="100%" />
 </p>
 
 <p align="center">
@@ -22,11 +20,13 @@ Copy and paste this URL directly into **Nuvio Player Settings ➔ Markers / Badg
 https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
 ```
 
-> **Pro Tip:** Nuvio automatically caches and synchronizes badge definitions. Once configured, every stream title across movies, series, anime, and live IPTV will render with pure floating vector badges.
+> **Pro Tip:** Nuvio automatically caches and synchronizes badge definitions dynamically. Once configured, every stream title across movies, series, anime, and live IPTV will render with pure floating vector badges.
 
 ---
 
 ## 🎬 Live Interactive Player Demonstration
+
+Experience the seamless stream selection flow in Nuvio with zero clipping, perfect horizontal margins, and dynamic focus illumination:
 
 <p align="center">
   <img src="previews/nuvio-player-demo.gif" alt="Nuvio Live Stream Selection Demo" width="100%" />
@@ -34,7 +34,17 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
 
 ---
 
+## 💎 The Cinematic OLED Presentation
+
+<p align="center">
+  <img src="previews/hero-banner.png" alt="Nuvio Cinematic Stream Engine" width="100%" />
+</p>
+
+---
+
 ## 🌟 The Studio & Platform Ecosystem
+
+Every platform and film studio logo is meticulously color-calibrated with **pure vector contrast tuning**—ensuring absolute, crystal-clear readability over dark OLED backgrounds with zero clunky pill boxes.
 
 <p align="center">
   <img src="previews/badge-showcase.png" alt="Nuvio Badge Ecosystem" width="100%" />
@@ -42,9 +52,9 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
 
 ---
 
-## 🚀 Radical Upgrades in V4.0
+## 🚀 Radical Upgrades in V5.0
 
-### 1. 📐 Optical Area Balancing (Zero Congestion & Balanced Proportions)
+### 1. 📐 Mathematical Optical Area Balancing (Zero Congestion & Strict Margins)
 - **Eliminated the 12x Size Disparity:** Previously, square emblems (like WB shield, DC circle, Apple logo, T-Series) were shrunken to 22px specks, while wide wordmarks expanded to 266px giant blocks.
 - **Dynamic Optical Curve:** 
   - Square emblems ($1:1$) are rendered at **48px** visual height.
@@ -52,6 +62,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
   - Wide wordmarks ($3.5:1+$) are rendered at **30–34px** visual height.
 - **Result:** Every badge occupies an optically balanced perceived visual area. Wide titles no longer dominate, and square emblems no longer look tiny.
 - **Unified 64px Canvas:** All 373 badges are generated on an exact **64px high-DPI canvas** with generous horizontal padding (minimum 8px on each side) to guarantee that badges never collide or appear congested.
+- **Strict Layout Guarantees:** Every preview card strictly bounds titles and badge rows, ensuring a minimum of **120px+ safety margin** before the container boundary.
 
 ### 2. 🌓 OLED Dark-Mode Contrast Engine
 - Converted all 19+ pure-black silhouettes (A24, Universal, Pixar, Lucasfilm, Columbia, Disney Castle, DreamWorks, 20th Century Studios, Lionsgate, Blumhouse, Studio Ghibli, Focus Features, Searchlight, Legendary, Channel 4, DAZN) into **brilliant crisp pure white (`#FFFFFF`)**.
