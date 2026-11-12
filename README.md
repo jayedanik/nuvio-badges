@@ -44,13 +44,13 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
 
 ### 🎬 Live Player Experience
 
-Experience the interactive stream selection interface with calibrated 4px margins, zero edge clipping on PC and mobile, and dynamic cinema illumination:
+Experience the authentic Nuvio stream playback interface with calibrated 4px margins, zero edge clipping on PC and mobile, and full background-free vector badge illumination:
 
 <p align="center">
-  <img src="previews/nuvio-player-demo.gif" alt="Nuvio Stream Selector Demo" width="100%" />
+  <img src="previews/nuvio-live-player.png" alt="Nuvio Live Player Experience" width="100%" />
 </p>
 
-> **Zero Clipping Guaranteed:** Calibrated with 4px StreamBridge horizontal margins. Even 12+ badges in a single stream (e.g., Netflix 4K HDR10 Dolby Vision HEVC 10-Bit Dolby Digital+ 5.1 WEB-DL Cached RD+ French MKV) fit 100% inside Nuvio PC's fixed container with zero edge cutoffs.
+> **Zero Clipping Guaranteed:** Calibrated with 4px StreamBridge horizontal margins. Even 12+ badges in a single stream (Netflix, 4K UHD, Dolby Vision, HEVC H.265, 10-Bit Color, Dolby Atmos, Dolby Digital+, 5.1 Surround, WEB-DL, Cached RD+, USA English, MKV Container) fit 100% inside Nuvio's player container with zero edge cutoffs.
 
 ---
 
