@@ -1,7 +1,4 @@
+﻿__pycache__/
+*.pyc
 *.py
-__pycache__/
-*.jsonl
-*.tmp
-streambridge.json
-sb_samples/
-sb_comparison.png
+temp_*

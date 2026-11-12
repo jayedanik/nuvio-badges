@@ -1,40 +1,41 @@
-<p align="center">
-  <img src="previews/title-hero-animated.gif" alt="Nuvio Master Badges — Flagship Animated Title Screen" width="100%" />
+﻿<p align="center">
+  <img src="previews/nuvio-hero.svg" alt="Nuvio — Master Badge System" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/jayedanik/nuvio-badges"><img src="https://img.shields.io/badge/Nuvio-Official_Badge_Pack-00f2fe?style=for-the-badge&logo=playstation&logoColor=white" alt="Nuvio Badge Pack" /></a>
-  <a href="badges.json"><img src="https://img.shields.io/badge/Total_Badges-317_Verified-9b51e0?style=for-the-badge&logo=shield" alt="Total Badges" /></a>
-  <a href="#-optical-area-balancing-standard"><img src="https://img.shields.io/badge/Height-64px_Optical_Lock-00ff88?style=for-the-badge" alt="Height Standard" /></a>
-  <a href="#-bangladeshi--bengali-ott-coverage"><img src="https://img.shields.io/badge/Bangladesh_🇧🇩-%231_National_Priority-f42a41?style=for-the-badge" alt="Bangladesh #1" /></a>
+  <a href="https://github.com/jayedanik/nuvio-badges"><img src="https://img.shields.io/badge/Nuvio-Badge_System-00f2fe?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTggNXYxNGwxMS03eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white" alt="Nuvio" /></a>
+  <a href="badges.json"><img src="https://img.shields.io/badge/Badges-317_Verified-9b51e0?style=for-the-badge" alt="Badges" /></a>
+  <a href="#-badge-ecosystem"><img src="https://img.shields.io/badge/OLED-Dark_Mode-00ff88?style=for-the-badge" alt="OLED" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-ffd700?style=for-the-badge" alt="License" /></a>
 </p>
 
----
-
-## ⚡ 1-Click Instant Setup for Nuvio
-
-Copy and paste this URL directly into **Nuvio Player Settings ➔ Markers / Badges**:
-
-```text
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
-```
-
-> **Pro Tip:** Nuvio automatically caches and synchronizes badge definitions dynamically. Once configured, every stream title across movies, series, anime, and live IPTV will render with pure floating vector badges.
-
----
-
-## 🎬 Live Interactive Player Demonstration
-
-Experience the seamless stream selection flow in Nuvio with zero clipping, perfect horizontal margins, and dynamic focus illumination:
-
 <p align="center">
-  <img src="previews/nuvio-player-demo.gif" alt="Nuvio Live Stream Selection Demo" width="100%" />
+  <sub>Floating vector badges for Nuvio media player — 317 badges across 65+ platforms, studios, codecs, and languages.<br/>OLED dark-mode optimized. Optically balanced at 64px canvas height. Zero pill boxes, pure transparent overlays.</sub>
 </p>
 
 ---
 
-## 💎 The Cinematic OLED Presentation
+### ⚡ Quick Setup
+
+Paste this URL into **Nuvio Player → Settings → Markers / Badges**:
+
+```
+https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
+```
+
+> Nuvio syncs badge definitions automatically. Every stream title renders with floating vector badges — no further configuration needed.
+
+---
+
+### 🎬 Live Demo
+
+<p align="center">
+  <img src="previews/nuvio-player-demo.gif" alt="Nuvio Stream Selector Demo" width="100%" />
+</p>
+
+---
+
+### 💎 Stream Engine Preview
 
 <p align="center">
   <img src="previews/hero-banner.png" alt="Nuvio Cinematic Stream Engine" width="100%" />
@@ -42,141 +43,126 @@ Experience the seamless stream selection flow in Nuvio with zero clipping, perfe
 
 ---
 
-## 🌟 The Studio & Platform Ecosystem
-
-Every platform and film studio logo is meticulously color-calibrated with **pure vector contrast tuning**—ensuring absolute, crystal-clear readability over dark OLED backgrounds with zero clunky pill boxes.
+### 📦 Badge Ecosystem
 
 <p align="center">
-  <img src="previews/badge-showcase.png" alt="Nuvio Badge Ecosystem" width="100%" />
+  <img src="previews/badge-showcase.png" alt="Complete Badge Ecosystem" width="100%" />
 </p>
 
 ---
 
-## 🚀 Radical Upgrades in V5.0
+### 🏗️ Architecture
 
-### 1. 📐 Mathematical Optical Area Balancing (Zero Congestion & Strict Margins)
-- **Eliminated the 12x Size Disparity:** Previously, square emblems (like WB shield, DC circle, Apple logo, T-Series) were shrunken to 22px specks, while wide wordmarks expanded to 266px giant blocks.
-- **Dynamic Optical Curve:** 
-  - Square emblems ($1:1$) are rendered at **48px** visual height.
-  - Standard logos ($2:1$) are rendered at **40px** visual height.
-  - Wide wordmarks ($3.5:1+$) are rendered at **30–34px** visual height.
-- **Result:** Every badge occupies an optically balanced perceived visual area. Wide titles no longer dominate, and square emblems no longer look tiny.
-- **Unified 64px Canvas:** All 373 badges are generated on an exact **64px high-DPI canvas** with generous horizontal padding (minimum 8px on each side) to guarantee that badges never collide or appear congested.
-- **Strict Layout Guarantees:** Every preview card strictly bounds titles and badge rows, ensuring a minimum of **120px+ safety margin** before the container boundary.
-
-### 2. 🌓 OLED Dark-Mode Contrast Engine
-- Converted all 19+ pure-black silhouettes (A24, Universal, Pixar, Lucasfilm, Columbia, Disney Castle, DreamWorks, 20th Century Studios, Lionsgate, Blumhouse, Studio Ghibli, Focus Features, Searchlight, Legendary, Channel 4, DAZN) into **brilliant crisp pure white (`#FFFFFF`)**.
-- Brand logos with colored accents (Peacock, Aha, Toffee, Binge BD, DeeptoPlay, JioCinema, SonyLIV, KLIKK) have their lettering illuminated in white while preserving vibrant corporate colors.
-
-### 3. 🇧🇩 Bangladesh (#1 Priority) & Complete South Asian OTT Architecture
-- **Bangladesh Flag (🇧🇩) Ranked #1** at the very top of the national languages and flags section with the constitutional 45% offset crimson disk on bottle green.
-- **Complete Bangladeshi & Bengali OTT Coverage:** Hoichoi (`HC`, `HC.WEB-DL`), Chorki, Toffee, Binge BD, Bioscope, Bongo BD, DeeptoPlay, Banglaflix, Cinematic BD, RabbitholeBD, KLIKK, Addatimes, SVF Entertainment, and Jaaz Multimedia.
-- **Indian National & Regional OTT Services:** JioHotstar, JioCinema, Zee5, SonyLIV, Sun NXT, Aha Video, MX Player, Eros Now, Hungama Play, ALTT, Ullu, ShemarooMe, ManoramaMAX, Chaupal, Stage, Yash Raj Films (YRF), Dharma Productions, Red Chillies Entertainment, and T-Series.
-
----
-
-## 🏛️ StreamBridge Golden Serial Hierarchy
-
-Badges follow the authentic **StreamBridge Golden Sequence**, organizing metadata logically from source to release flags:
-
-```text
-[Platform / Studio] ➔ [Resolution] ➔ [HDR / IMAX] ➔ [Video Codec] ➔ [Bit-Depth] ➔ [Frame Rate] ➔ [Audio] ➔ [Channels] ➔ [Source] ➔ [Edition] ➔ [Delivery] ➔ [Country / Flag] ➔ [Subtitles] ➔ [Flags] ➔ [Container] ➔ [Live]
-```
-
-| Order | Group ID | Category | Key Highlights |
-|:---:|:---|:---|:---|
-| **01** | `service` | **Streaming & Studios** | Hollywood Majors, South Asian OTTs, Global Streamers, Japanese Anime |
-| **02** | `resolution` | **Resolution** | 8K UHD, 4K UHD, 1440p QHD, 1080p FHD, 720p HD, 576p, 480p SD |
-| **03** | `hdr` | **HDR & Dynamic Range** | Dolby Vision (P5/P7/P8), HDR10+, HDR10, HLG, SDR, IMAX Enhanced, 3D |
-| **04** | `codec` | **Video Codecs** | AV1 Next-Gen, VVC (H.266), HEVC (H.265), AVC (H.264), VP9, VC-1, MPEG-2 |
-| **05** | `bit-depth` | **Color Bit Depth** | 10-Bit Studio Color, 12-Bit Cinema Master, 8-Bit Standard |
-| **06** | `framerate` | **Frame Rate** | 120 FPS, 60 FPS High-Motion, 50 FPS PAL, HFR Cinema |
-| **07** | `audio` | **Audio Formats** | Dolby Atmos, Dolby TrueHD, Dolby Digital Plus, DTS:X, DTS-HD MA, FLAC, AAC |
-| **08** | `channels` | **Audio Channels** | 7.1 Surround, 6.1 Surround, 5.1 Surround, 2.0 Stereo, 1.0 Mono |
-| **09** | `source` | **Source & Rip Type** | REMUX (Lossless), Full Disc, UHD Blu-ray, Blu-ray, WEB-DL, WEBRip, HDTV |
-| **10** | `edition` | **Editions & Cuts** | Director's Cut, Extended Cut, Theatrical, Criterion, Remastered, IMAX, Hybrid |
-| **11** | `delivery` | **Debrid & Delivery** | Cached [RD+], Real-Debrid, TorBox, AllDebrid, Premiumize, USENET, P2P |
-| **12** | `language` | **Audio Languages & Flags** | **Bangladesh (🇧🇩) #1**, India (🇮🇳 Hindi, Tamil, Telugu, etc.), Global |
-| **13** | `subtitles` | **Subtitles** | Embedded Subs (ESub), Multi-Subs (MSubs), SDH Hearing Impaired, Forced Subs |
-| **14** | `flags` | **Release Flags** | PROPER, REPACK, INTERNAL, LIMITED, Season Pack, Anime Batch v2 |
-| **15** | `container` | **Containers** | MKV, MP4, M2TS, AVI |
-| **16** | `live` | **Live TV & Feeds** | LIVE, 24/7 Streams, PPV Event, HD/SD Feeds, Catch-up TV |
+| # | Group ID | Category | Coverage |
+|:-:|:---------|:---------|:---------|
+| 1 | `service` | **Streaming & Studios** | Netflix, Prime Video, Disney+, Apple TV+, HBO Max, Hulu, Peacock, Paramount+, Crunchyroll, MUBI, Criterion, Hoichoi, Chorki, Toffee, Binge BD, JioHotstar, Zee5, SonyLIV, A24, Marvel, DC, Pixar, Lucasfilm, DreamWorks, + 40 more |
+| 2 | `resolution` | **Resolution** | 4K, 1080p, 720p, 480p, 8K, SD |
+| 3 | `quality` | **Quality Tiers** | HDR10, HDR10+, Dolby Vision, HLG, SDR |
+| 4 | `depth` | **Bit Depth** | 10-bit, 8-bit, 12-bit |
+| 5 | `fps` | **Frame Rate** | 60fps, 120fps, 24fps |
+| 6 | `codec` | **Video Codecs** | HEVC, H.265, AV1, VP9, AVC, H.264, VVC, VC-1, MPEG-2, XVID |
+| 7 | `audio` | **Audio** | Dolby Atmos, DTS-HD MA, DTS:X, TrueHD, FLAC, AAC, AC3, EAC3, Opus, MP3, 7.1, 5.1, 2.0 |
+| 8 | `source` | **Source & Release** | REMUX, Full Disc, UHD Blu-ray, Blu-ray, WEB-DL, WEBRip, HDTV, DVDRip, CAM, TS, TC, SCR, HC |
+| 9 | `debrid` | **Debrid & Cache** | Real-Debrid, TorBox, AllDebrid, Premiumize, Cached, Uncached, Usenet, P2P, Direct, 50GB+ |
+| 10 | `edition` | **Editions** | IMAX, IMAX Enhanced, Criterion, Directors Cut, Extended, Theatrical, Unrated, Remastered, Anniversary |
+| 11 | `release` | **Release Flags** | Proper, Repack, Internal, Limited, Season Pack, V2, Sample |
+| 12 | `container` | **Containers** | MKV, MP4, M2TS, AVI |
+| 13 | `subtitle` | **Subtitles** | ESub, MSubs, SDH, VOSTFR, Forced Subs |
+| 14 | `language` | **Languages & Flags** | 🇧🇩 Bangladesh (#1), Hindi, Urdu, Nepali, Sinhala, Japanese, Korean, Chinese, Cantonese, Thai, Vietnamese, Indonesian, Malay, Filipino, Khmer, Lao, Burmese, French, German, Italian, Russian, Ukrainian, Polish, Czech, Slovak, + more |
+| 15 | `live` | **Live TV** | LIVE, 24/7, PPV, HD/SD Feeds, Catch-up |
 
 ---
 
-## 📂 Detailed Badge Catalog Breakdown
-
 <details>
-<summary><b>🎬 Click to expand Hollywood Majors & International Studios (19 Badges)</b></summary>
+<summary><b>🇧🇩 Bangladeshi & Bengali OTT (14 Badges)</b></summary>
 
-- **Warner Bros. Pictures** (`warnerbros.webp`) — Official 2023 Shield
-- **Universal Pictures** (`universal.webp`) — Globe and typography in crisp white
-- **Paramount Pictures** (`paramount_studio.webp`) — Mountain peak and stars in ice white
-- **Columbia Pictures** (`columbia.webp`) — Sony Columbia wordmark in pure white
-- **Walt Disney Pictures** (`disney_studio.webp`) — Cinderella Castle & script in pure white
-- **Marvel Studios** (`marvel.webp`) — Iconic red box with white MARVEL + STUDIOS
-- **DC Studios** (`dc.webp`) — James Gunn DC circle emblem in crisp white
-- **Pixar Animation** (`pixar.webp`) — Wordmark in pure white
-- **Lucasfilm** (`lucasfilm.webp`) — Wordmark in pure white
-- **20th Century Studios** (`century_fox.webp`) — Horizontal monument in pure white
-- **DreamWorks Animation** (`dreamworks.webp`) — Crescent moon fishing boy in pure white
-- **Lionsgate** (`lionsgate.webp`) — Wordmark in pure white
-- **A24** (`a24.webp`) — Minimalist emblem in pure white
-- **NEON** (`neon.webp`) — Glowing typographic wordmark
-- **Blumhouse** (`blumhouse.webp`) — Wordmark in pure white
-- **Studio Ghibli** (`ghibli.webp`) — Totoro silhouette in pure white
-- **Focus Features** (`focus.webp`) — Typography in pure white
-- **Searchlight Pictures** (`searchlight.webp`) — Typography in pure white
-- **Legendary Entertainment** (`legendary.webp`) — Celtic knot in pure white
+| Badge | Platform | Pattern |
+|:------|:---------|:--------|
+| Hoichoi | hoichoi.webp | `HC`, `HC.WEB-DL`, `hmp` |
+| Chorki | chorki.webp | `CHORKI`, `CKI` |
+| Toffee | toffee.webp | `TOFFEE`, `TFE` |
+| Binge BD | bingebd.webp | `BINGE`, `BNG` |
+| Bioscope | bioscope.webp | `BIOSCOPE` |
+| Bongo BD | bongo.webp | `BONGO` |
+| DeeptoPlay | deeptoplay.webp | `DEEPTO` |
+| Banglaflix | banglaflix.webp | `BANGLAFLIX` |
+| Cinematic BD | cinematic.webp | `CINEMATIC` |
+| RabbitholeBD | rabbithole.webp | `RABBITHOLE` |
+| KLIKK | klikk.webp | `KLIKK` |
+| Addatimes | addatimes.webp | `ADDATIMES` |
+| SVF | svf.webp | `SVF` |
+| Jaaz Multimedia | jaaz.webp | `JAAZ` |
+
 </details>
 
 <details>
-<summary><b>🇧🇩 Click to expand Bangladeshi & Bengali OTT Platforms (14 Badges)</b></summary>
+<summary><b>🇮🇳 Indian OTT & Production (20 Badges)</b></summary>
 
-- **Hoichoi** (`hoichoi.webp`) — Full regex matching `HC`, `HC.WEB-DL`, `[HC]`, `hmp`
-- **Chorki** (`chorki.webp`) — Official yellow/orange circle star C emblem
-- **Toffee** (`toffee.webp`) — Beximco Toffee bright red curve & white typography
-- **Binge BD** (`bingebd.webp`) — Red & yellow play badge with white typography
-- **Bioscope** (`bioscope.webp`) — Grameenphone Bioscope multi-colored aperture
-- **Bongo BD** (`bongo.webp`) — Red B play button
-- **DeeptoPlay** (`deeptoplay.webp`) — Sunburst emblem with illuminated lettering
-- **Banglaflix** (`banglaflix.webp`) — Film reel emblem
-- **Cinematic BD** (`cinematic.webp`) — Clapboard emblem
-- **RabbitholeBD** (`rabbithole.webp`) — White rabbit emblem in blue circle
-- **KLIKK** (`klikk.webp`) — Electric magenta K symbol
-- **Addatimes** (`addatimes.webp`) — Gold/yellow emblem
-- **SVF Entertainment** (`svf.webp`) — Red/blue emblem
-- **Jaaz Multimedia** (`jaaz.webp`) — Golden wings crown emblem
+| Badge | Platform | Pattern |
+|:------|:---------|:--------|
+| JioHotstar | jiohotstar.webp | `HOTSTAR`, `HTSR`, `JioHotstar` |
+| JioCinema | jiocinema.webp | `JIOCINEMA`, `JC` |
+| Zee5 | zee5.webp | `ZEE5`, `Z5` |
+| SonyLIV | sonyliv.webp | `SONYLIV`, `SLIV` |
+| Sun NXT | sunnxt.webp | `SUNNXT` |
+| Aha Video | aha.webp | `AHA` |
+| MX Player | mxplayer.webp | `MXPLAYER`, `MXP` |
+| Eros Now | erosnow.webp | `EROSNOW`, `EROS` |
+| Hungama | hungama.webp | `HUNGAMA` |
+| ALTT | altt.webp | `ALTT` |
+| Ullu | ullu.webp | `ULLU` |
+| ShemarooMe | shemaroome.webp | `SHEMAROO` |
+| ManoramaMAX | manoramamax.webp | `MANORAMA` |
+| Chaupal | chaupal.webp | `CHAUPAL` |
+| Planet Marathi | planetmarathi.webp | `PLANETMARATHI` |
+| Stage | stage.webp | `STAGE` |
+| Yash Raj Films | yrf.webp | `YRF` |
+| Dharma | dharma.webp | `DHARMA` |
+| Red Chillies | redchillies.webp | `REDCHILLIES` |
+| T-Series | tseries.webp | `TSERIES` |
+
 </details>
 
 <details>
-<summary><b>🇮🇳 Click to expand Indian National & Regional Platforms (19 Badges)</b></summary>
+<summary><b>🎬 Hollywood Studios (19 Badges)</b></summary>
 
-- **JioHotstar** (`jiohotstar.webp`) — JioHotstar star badge
-- **JioCinema** (`jiocinema.webp`) — Magenta/pink emblem with crisp white typography
-- **Zee5** (`zee5.webp`) — Multi-colored ring with ZEE5 typography
-- **SonyLIV** (`sonyliv.webp`) — Colorful geometric stripes with pure white LIV
-- **Sun NXT** (`sunnxt.webp`) — Sun burst emblem
-- **Aha Video** (`aha.webp`) — Official vibrant orange (`#F46C33`)
-- **MX Player** (`mxplayer.webp`) — Blue play shield with crisp white typography
-- **Eros Now** (`erosnow.webp`) — Magenta wordmark
-- **Hungama Play** (`hungama.webp`) — Vibrant orange emblem with white lettering
-- **ALTT** (`altt.webp`) — Red/white ALTT emblem
-- **Ullu** (`ullu.webp`) — Yellow owl emblem
-- **ShemarooMe** (`shemaroome.webp`) — Multi-colored ribbon emblem
-- **ManoramaMAX** (`manoramamax.webp`) — Orange/blue emblem with white max lettering
-- **Chaupal** (`chaupal.webp`) — Gold/red emblem
-- **Planet Marathi** (`planetmarathi.webp`) — Orange planet ring emblem
-- **Stage** (`stage.webp`) — Dial emblem with white lettering
-- **Yash Raj Films** (`yrf.webp`) — YRF wings in gold/white
-- **Dharma Productions** (`dharma.webp`) — Dharma D triangle
-- **Red Chillies Entertainment** (`redchillies.webp`) — Red sword/chili emblem
-- **T-Series Films** (`tseries.webp`) — Red T circular emblem
+| Badge | Studio | Notes |
+|:------|:-------|:------|
+| Warner Bros. | warnerbros.webp | 2023 Shield |
+| Universal | universal.webp | Pure white globe |
+| Paramount | paramount_studio.webp | Ice white mountain |
+| Columbia | columbia.webp | Pure white wordmark |
+| Disney | disney_studio.webp | Castle silhouette in white |
+| Marvel Studios | marvel.webp | Red box + white text |
+| DC Studios | dc.webp | Circle emblem in white |
+| Pixar | pixar.webp | White wordmark |
+| Lucasfilm | lucasfilm.webp | White wordmark |
+| 20th Century | century_fox.webp | White monument |
+| DreamWorks | dreamworks.webp | White crescent moon |
+| Lionsgate | lionsgate.webp | White wordmark |
+| A24 | a24.webp | White minimalist |
+| NEON | neon.webp | Glowing wordmark |
+| Blumhouse | blumhouse.webp | White wordmark |
+| Studio Ghibli | ghibli.webp | White Totoro |
+| Focus Features | focus.webp | White typography |
+| Searchlight | searchlight.webp | White typography |
+| Legendary | legendary.webp | White Celtic knot |
+
 </details>
 
 ---
 
-## 🛠️ Maintained By
+### 🔬 Technical Specs
 
-Engineered with ❤️ by [@jayedanik](https://github.com/jayedanik).  
-Contributions and issue reports are warmly welcomed!
+- **Canvas:** 64px height, transparent `.webp`, lossless
+- **Optical Balancing:** Square emblems at 48px visual, wide wordmarks at 30–34px
+- **OLED Engine:** 19+ black silhouettes converted to pure white; dark text brightened per brand color
+- **Patterns:** PCRE-compatible regex with word boundaries
+- **Colors:** All `#00000000` (fully transparent) — Nuvio renders pure floating badges
+- **Manifest:** `badges.json` at repo root, served via GitHub raw CDN
+
+---
+
+<p align="center">
+  <sub>Built with ❤️ by <a href="https://github.com/jayedanik">@jayedanik</a></sub>
+</p>

@@ -1,0 +1,237 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340">
+  <defs>
+    <!-- Premium gradient backgrounds -->
+    <linearGradient id="bg-main" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="30%" style="stop-color:#0d1117"/>
+      <stop offset="70%" style="stop-color:#0f0a1a"/>
+      <stop offset="100%" style="stop-color:#0a0a0f"/>
+    </linearGradient>
+    
+    <!-- Animated accent gradient -->
+    <linearGradient id="accent-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00f2fe">
+        <animate attributeName="stop-color" values="#00f2fe;#9b51e0;#00ff88;#00f2fe" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#9b51e0">
+        <animate attributeName="stop-color" values="#9b51e0;#00ff88;#00f2fe;#9b51e0" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#00ff88">
+        <animate attributeName="stop-color" values="#00ff88;#00f2fe;#9b51e0;#00ff88" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Subtle shimmer gradient -->
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:rgba(255,255,255,0)"/>
+      <stop offset="50%" style="stop-color:rgba(255,255,255,0.03)"/>
+      <stop offset="100%" style="stop-color:rgba(255,255,255,0)"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Top line animated gradient -->
+    <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00f2fe;stop-opacity:0">
+        <animate attributeName="offset" values="-0.2;1" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="20%" style="stop-color:#00f2fe;stop-opacity:1">
+        <animate attributeName="offset" values="0;1.2" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="40%" style="stop-color:#9b51e0;stop-opacity:1">
+        <animate attributeName="offset" values="0.2;1.4" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="60%" style="stop-color:#9b51e0;stop-opacity:0">
+        <animate attributeName="offset" values="0.4;1.6" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Glow filter -->
+    <filter id="glow-soft">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glow-strong">
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glow-text">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Noise texture -->
+    <filter id="noise">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="4" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+
+    <!-- Clip for rounded corners -->
+    <clipPath id="rounded">
+      <rect width="1200" height="340" rx="12" ry="12"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    @keyframes float-up {
+      0%, 100% { transform: translateY(0px); opacity: 0.4; }
+      50% { transform: translateY(-6px); opacity: 0.7; }
+    }
+    @keyframes pulse-ring {
+      0%, 100% { opacity: 0.15; transform: scale(1); }
+      50% { opacity: 0.35; transform: scale(1.05); }
+    }
+    @keyframes fade-in-out {
+      0%, 100% { opacity: 0.2; }
+      50% { opacity: 0.5; }
+    }
+    @keyframes dash-move {
+      to { stroke-dashoffset: -20; }
+    }
+    @keyframes breathe {
+      0%, 100% { opacity: 0.6; }
+      50% { opacity: 1; }
+    }
+    .float-1 { animation: float-up 6s ease-in-out infinite; }
+    .float-2 { animation: float-up 7s ease-in-out 1s infinite; }
+    .float-3 { animation: float-up 5s ease-in-out 2s infinite; }
+    .float-4 { animation: float-up 8s ease-in-out 0.5s infinite; }
+    .pulse { animation: pulse-ring 4s ease-in-out infinite; }
+    .fade { animation: fade-in-out 5s ease-in-out infinite; }
+    .dash { animation: dash-move 2s linear infinite; }
+    .breathe { animation: breathe 3s ease-in-out infinite; }
+  </style>
+
+  <g clip-path="url(#rounded)">
+    <!-- Base background -->
+    <rect width="1200" height="340" fill="url(#bg-main)"/>
+    
+    <!-- Subtle noise texture overlay -->
+    <rect width="1200" height="340" filter="url(#noise)" opacity="0.02"/>
+    
+    <!-- Shimmer overlay -->
+    <rect width="1200" height="340" fill="url(#shimmer)"/>
+
+    <!-- Animated top accent line -->
+    <rect x="0" y="0" width="1200" height="2" fill="url(#line-grad)"/>
+
+    <!-- Background decorative elements - subtle grid dots -->
+    <g opacity="0.06">
+      <circle cx="100" cy="80" r="1" fill="#ffffff" class="float-1"/>
+      <circle cx="200" cy="120" r="1" fill="#ffffff" class="float-2"/>
+      <circle cx="300" cy="60" r="1" fill="#ffffff" class="float-3"/>
+      <circle cx="400" cy="160" r="1" fill="#ffffff" class="float-4"/>
+      <circle cx="500" cy="90" r="1" fill="#ffffff" class="float-1"/>
+      <circle cx="600" cy="140" r="1" fill="#ffffff" class="float-2"/>
+      <circle cx="700" cy="70" r="1" fill="#ffffff" class="float-3"/>
+      <circle cx="800" cy="130" r="1" fill="#ffffff" class="float-4"/>
+      <circle cx="900" cy="100" r="1" fill="#ffffff" class="float-1"/>
+      <circle cx="1000" cy="150" r="1" fill="#ffffff" class="float-2"/>
+      <circle cx="1100" cy="80" r="1" fill="#ffffff" class="float-3"/>
+      <circle cx="150" cy="200" r="1" fill="#ffffff" class="float-4"/>
+      <circle cx="350" cy="240" r="1" fill="#ffffff" class="float-1"/>
+      <circle cx="550" cy="220" r="1" fill="#ffffff" class="float-2"/>
+      <circle cx="750" cy="260" r="1" fill="#ffffff" class="float-3"/>
+      <circle cx="950" cy="230" r="1" fill="#ffffff" class="float-4"/>
+      <circle cx="1050" cy="210" r="1" fill="#ffffff" class="float-1"/>
+    </g>
+
+    <!-- Large soft ambient glow orbs -->
+    <circle cx="200" cy="170" r="180" fill="#00f2fe" opacity="0.015" class="pulse" filter="url(#glow-strong)"/>
+    <circle cx="1000" cy="170" r="180" fill="#9b51e0" opacity="0.015" class="pulse" filter="url(#glow-strong)" style="animation-delay:2s"/>
+    <circle cx="600" cy="300" r="120" fill="#00ff88" opacity="0.01" class="pulse" filter="url(#glow-strong)" style="animation-delay:4s"/>
+
+    <!-- Left decorative element: Abstract streaming visualization -->
+    <g transform="translate(80, 120)" class="float-1" opacity="0.15">
+      <!-- Streaming lines -->
+      <line x1="0" y1="0" x2="60" y2="0" stroke="#00f2fe" stroke-width="1" stroke-dasharray="4,4" class="dash"/>
+      <line x1="0" y1="12" x2="80" y2="12" stroke="#9b51e0" stroke-width="1" stroke-dasharray="4,4" class="dash" style="animation-delay:0.3s"/>
+      <line x1="0" y1="24" x2="50" y2="24" stroke="#00ff88" stroke-width="1" stroke-dasharray="4,4" class="dash" style="animation-delay:0.6s"/>
+      <line x1="0" y1="36" x2="70" y2="36" stroke="#00f2fe" stroke-width="1" stroke-dasharray="4,4" class="dash" style="animation-delay:0.9s"/>
+      <line x1="0" y1="48" x2="55" y2="48" stroke="#9b51e0" stroke-width="1" stroke-dasharray="4,4" class="dash" style="animation-delay:1.2s"/>
+    </g>
+
+    <!-- Right decorative element: Badge stack visualization -->
+    <g transform="translate(1030, 100)" opacity="0.12">
+      <rect x="0" y="0" width="90" height="22" rx="4" fill="none" stroke="#00f2fe" stroke-width="0.5" class="float-2"/>
+      <rect x="10" y="30" width="80" height="22" rx="4" fill="none" stroke="#9b51e0" stroke-width="0.5" class="float-3"/>
+      <rect x="5" y="60" width="85" height="22" rx="4" fill="none" stroke="#00ff88" stroke-width="0.5" class="float-4"/>
+      <rect x="15" y="90" width="75" height="22" rx="4" fill="none" stroke="#00f2fe" stroke-width="0.5" class="float-1"/>
+      <rect x="8" y="120" width="82" height="22" rx="4" fill="none" stroke="#9b51e0" stroke-width="0.5" class="float-2"/>
+    </g>
+
+    <!-- Center content -->
+    <g transform="translate(600, 100)">
+      <!-- Nuvio icon: stylized play button with glow -->
+      <g filter="url(#glow-soft)" class="breathe">
+        <polygon points="-12,-16 -12,16 16,0" fill="url(#accent-glow)" opacity="0.6"/>
+      </g>
+      
+      <!-- Main title -->
+      <text x="0" y="55" text-anchor="middle" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="700" font-size="56" fill="#ffffff" letter-spacing="-1" filter="url(#glow-text)">
+        NUVIO
+      </text>
+      
+      <!-- Accent underline -->
+      <rect x="-40" y="65" width="80" height="2" rx="1" fill="url(#accent-glow)" class="breathe"/>
+      
+      <!-- Subtitle -->
+      <text x="0" y="90" text-anchor="middle" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-weight="400" font-size="14" fill="#8b949e" letter-spacing="6">
+        MASTER BADGE SYSTEM
+      </text>
+    </g>
+
+    <!-- Stats row at bottom -->
+    <g transform="translate(600, 255)">
+      <!-- Stat: Badges -->
+      <g transform="translate(-240, 0)">
+        <text x="0" y="0" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="24" fill="url(#accent-glow)">317</text>
+        <text x="0" y="18" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-weight="400" font-size="10" fill="#6e7681" letter-spacing="2">BADGES</text>
+      </g>
+      
+      <!-- Separator -->
+      <line x1="-140" y1="-8" x2="-140" y2="22" stroke="#21262d" stroke-width="1"/>
+      
+      <!-- Stat: Services -->
+      <g transform="translate(-40, 0)">
+        <text x="0" y="0" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="24" fill="url(#accent-glow)">65+</text>
+        <text x="0" y="18" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-weight="400" font-size="10" fill="#6e7681" letter-spacing="2">PLATFORMS</text>
+      </g>
+      
+      <!-- Separator -->
+      <line x1="60" y1="-8" x2="60" y2="22" stroke="#21262d" stroke-width="1"/>
+      
+      <!-- Stat: Height -->
+      <g transform="translate(160, 0)">
+        <text x="0" y="0" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="24" fill="url(#accent-glow)">64px</text>
+        <text x="0" y="18" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-weight="400" font-size="10" fill="#6e7681" letter-spacing="2">OPTICAL HEIGHT</text>
+      </g>
+
+      <!-- Separator -->
+      <line x1="260" y1="-8" x2="260" y2="22" stroke="#21262d" stroke-width="1"/>
+
+      <!-- Stat: OLED -->
+      <g transform="translate(340, 0)">
+        <text x="0" y="0" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="24" fill="url(#accent-glow)">OLED</text>
+        <text x="0" y="18" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-weight="400" font-size="10" fill="#6e7681" letter-spacing="2">DARK MODE</text>
+      </g>
+    </g>
+
+    <!-- Bottom subtle line -->
+    <rect x="0" y="338" width="1200" height="2" fill="#21262d"/>
+
+    <!-- Version tag -->
+    <g transform="translate(1160, 30)">
+      <rect x="-28" y="-10" width="56" height="20" rx="10" fill="none" stroke="#30363d" stroke-width="0.5"/>
+      <text x="0" y="4" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-weight="500" font-size="10" fill="#6e7681">v5.0</text>
+    </g>
+  </g>
+</svg>
