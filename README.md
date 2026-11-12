@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jayedanik/nuvio-badges"><img src="https://img.shields.io/badge/Nuvio-Badge_System-00f2fe?style=for-the-badge" alt="Nuvio" /></a>
-  <a href="badges.json"><img src="https://img.shields.io/badge/Badges-394_Pristine-9b51e0?style=for-the-badge" alt="Badges" /></a>
+  <a href="https://github.com/jayedanik/nuvio-badges"><img src="https://img.shields.io/badge/Nuvio-Badge_Kit-B64DF5?style=for-the-badge" alt="Nuvio" /></a>
+  <a href="badges.json"><img src="https://img.shields.io/badge/Badges-394_Pristine-00f2fe?style=for-the-badge" alt="Badges" /></a>
   <a href="badges.json"><img src="https://img.shields.io/badge/Styles-10_Masterpieces-ff007f?style=for-the-badge" alt="Styles" /></a>
   <a href="badges.json"><img src="https://img.shields.io/badge/Scale-96px_StreamBridge-00ff88?style=for-the-badge" alt="96px Scale" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-ffd700?style=for-the-badge" alt="License" /></a>
@@ -32,92 +32,126 @@
 ### 🌟 Pristine Master (Default)
 Ultra-clean floating OLED vector typography with micro-subtitles and official Dolby branding. 100% background-free.
 
-![Pristine Master](previews/preview-pristine.png)
+![Pristine Master](previews/preview-pristine.jpg)
 
 ```
 https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
 ```
 
+---
+
 ### ⌨️ Theme 1: GMK Custom Keycaps
 Classic dark PBT mechanical hardware with spherical scoops, accent keycaps, and tactile angled skirt drop shadows.
 
-![GMK Keycaps](previews/preview-gmk-keycaps.png)
+![GMK Keycaps](previews/preview-gmk-keycaps.jpg)
 
 ```
 https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/gmk-keycaps.json
 ```
 
+---
+
 ### 🌈 Theme 2: Neon RGB Pudding Keycaps
 Translucent milky pudding keycaps with intense dynamic RGB underglow, dual-tone key stems, and cybernetic neon edge lighting.
 
-![Neon RGB Keycaps](previews/preview-rgb-keycaps.png)
+![Neon RGB Keycaps](previews/preview-rgb-keycaps.jpg)
 
 ```
 https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/rgb-keycaps.json
 ```
 
+---
+
 ### 🎟️ Theme 3: Royal Golden Cinema Ticket
 Vintage Broadway Hollywood premiere ticket stub with 24K double gold pinstripes, corner diamond inlays, and authentic semicircular side notches.
 
-![Royal Cinema Ticket](previews/preview-cinema-ticket.png)
+![Royal Cinema Ticket](previews/preview-cinema-ticket.jpg)
 
 ```
 https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/cinema-ticket.json
 ```
 
+---
+
 ### 🏅 Theme 4: Cloisonné Enamel Jewelry Pins
 Handcrafted jewelry aesthetic with cast 3D brass metal borders, liquid jewelry enamel pool, and diagonal specular glass shine.
 
-![Enamel Pins](previews/preview-enamel-pins.png)
+![Enamel Pins](previews/preview-enamel-pins.jpg)
 
 ```
 https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/enamel-pins.json
 ```
 
+---
+
 ### 📼 Theme 5: 1980s Vintage VHS Tape
 Retro analog video store aesthetic with warm aged matte paper, left vertical barcode stamp, and classic 80s tri-color rainbow spine stripe.
 
-![1980s VHS Tape](previews/preview-vhs-tape.png)
+![1980s VHS Tape](previews/preview-vhs-tape.jpg)
 
 ```
 https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/vhs-tape.json
 ```
 
+---
+
 ### 🎬 Theme 6: Hollywood Cinema Clapperboard
 Iconic film set production slate with bold black & white chevron clapper sticks, matte blackboard texture, and dual metal hinge bolts.
 
-![Cinema Clapperboard](previews/preview-clapperboard.png)
+![Cinema Clapperboard](previews/preview-clapperboard.jpg)
 
 ```
 https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/clapperboard.json
 ```
 
+---
+
 ### 📟 Theme 7: Audiophile Vintage VFD Display
 High-end McIntosh-style hi-fi audio rack with brushed aluminium chassis, smoked glass window, and glowing teal vacuum fluorescent display characters.
 
-![Audiophile Vintage VFD](previews/preview-audiophile-vfd.png)
+![Audiophile Vintage VFD](previews/preview-audiophile-vfd.jpg)
 
 ```
 https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/audiophile-vfd.json
 ```
 
+---
+
 ### 🏷️ Theme 8: Neo-Tokyo Minimalist Tech Tag
 Acronym cyberpunk garment tag with high-contrast accent border, futuristic monospace typography, and clean HUD spec layout.
 
-![Neo-Tokyo Tech Tag](previews/preview-neotokyo-tag.png)
+![Neo-Tokyo Tech Tag](previews/preview-neotokyo-tag.jpg)
 
 ```
 https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/neotokyo-tag.json
 ```
 
+---
+
 ### 💎 Theme 9: Criterion 24K Gold Foil Leather
 Luxury boutique physical release with midnight leather grain texture, 24K gold foil debossed frame, and corner diamond accents.
 
-![Criterion Gold Leather](previews/preview-criterion-leather.png)
+![Criterion Gold Leather](previews/preview-criterion-leather.jpg)
 
 ```
 https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/criterion-leather.json
 ```
+
+---
+
+## 📺 Complete Master Badge Catalogue
+
+Explore the complete catalog of 394 high-precision badges covering all modern home theater specs:
+
+<p align="center">
+  <img src="previews/badge-catalogue.jpg" alt="Complete Master Badge Catalogue" width="100%" />
+</p>
+
+### 🌐 Global & Regional OTT Services, Cinema Studios & 110+ Flags
+
+<p align="center">
+  <img src="previews/studios-flags-catalogue.jpg" alt="OTT Services, Studios and Flags" width="100%" />
+</p>
 
 ---
 
@@ -128,16 +162,6 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/criterion-leather.
 - **Violet / Purple:** Immersive multi-channel surround sound (`Dolby Atmos`, `DTS:X`, `TrueHD`, `7.1`).
 - **Emerald / Green:** Direct high-speed playback, multi-language packs, and lossless audio (`DIRECT`, `FLAC`, `MULTI`).
 - **Red / Coral:** Warnings & quality alerts (`CAM`, `Telesync`, `Screener`, `UNCACHED`).
-
----
-
-## 🎬 Live Player Experience
-
-Nuvio renders these badges natively in stream selection menus and in-player metadata overlays:
-
-<p align="center">
-  <img src="previews/nuvio-live-player.png" alt="Nuvio Live Player Experience" width="100%" />
-</p>
 
 ---
 
