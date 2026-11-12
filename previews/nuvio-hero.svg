@@ -184,7 +184,7 @@
       
       <!-- Subtitle -->
       <text x="0" y="90" text-anchor="middle" font-family="'JetBrains Sans', 'JetBrains Sans', system-ui, -apple-system, sans-serif" font-weight="400" font-size="14" fill="#8b949e" letter-spacing="6">
-        MASTER BADGE SYSTEM
+        BADGE KIT • 10 BESPOKE STYLES
       </text>
     </g>
 
@@ -192,7 +192,7 @@
     <g transform="translate(600, 255)">
       <!-- Stat: Badges -->
       <g transform="translate(-240, 0)">
-        <text x="0" y="0" text-anchor="middle" font-family="'JetBrains Sans', 'JetBrains Sans', system-ui, -apple-system, sans-serif" font-weight="700" font-size="24" fill="url(#accent-glow)">394</text>
+        <text x="0" y="0" text-anchor="middle" font-family="'JetBrains Sans', 'JetBrains Sans', system-ui, -apple-system, sans-serif" font-weight="700" font-size="24" fill="url(#accent-glow)">395</text>
         <text x="0" y="18" text-anchor="middle" font-family="'JetBrains Sans', 'JetBrains Sans', system-ui, -apple-system, sans-serif" font-weight="400" font-size="10" fill="#6e7681" letter-spacing="2">BADGES</text>
       </g>
       
@@ -230,7 +230,7 @@
     <!-- Version tag -->
     <g transform="translate(1160, 30)">
       <rect x="-28" y="-10" width="56" height="20" rx="10" fill="none" stroke="#30363d" stroke-width="0.5"/>
-      <text x="0" y="4" text-anchor="middle" font-family="'JetBrains Sans', 'JetBrains Sans', system-ui, -apple-system, sans-serif" font-weight="500" font-size="10" fill="#6e7681">v2.1</text>
+      <text x="0" y="4" text-anchor="middle" font-family="'JetBrains Sans', 'JetBrains Sans', system-ui, -apple-system, sans-serif" font-weight="500" font-size="10" fill="#6e7681">v2.8</text>
     </g>
   </g>
 </svg>
