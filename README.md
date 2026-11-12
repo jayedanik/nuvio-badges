@@ -50,7 +50,7 @@ Experience the authentic Nuvio stream playback interface with calibrated 4px mar
   <img src="previews/nuvio-live-player.png" alt="Nuvio Live Player Experience" width="100%" />
 </p>
 
-> **Zero Clipping Guaranteed:** Calibrated with 4px StreamBridge horizontal margins. Even 12+ badges in a single stream (Netflix, 4K UHD, Dolby Vision, HEVC H.265, 10-Bit Color, Dolby Atmos, Dolby Digital+, 5.1 Surround, WEB-DL, Cached RD+, USA English, MKV Container) fit 100% inside Nuvio's player container with zero edge cutoffs.
+> **Zero Clipping Guaranteed:** Calibrated with 4px StreamBridge horizontal margins. Even 12+ badges in a single stream (Netflix, 4K UHD, Dolby Vision, HEVC H.265, 10-Bit Color, Dolby Atmos, Dolby Digital+, 5.1 Surround, WEB-DL, CACHED, USA English, MKV Container) fit 100% inside Nuvio's player container with zero edge cutoffs.
 
 ---
 
@@ -87,7 +87,7 @@ Every streaming platform, Bengali OTT, Indian network, and Hollywood studio is c
 | 6 | `codec` | **Video Codecs** | HEVC H.265, AV1 Next-Gen, AVC H.264, VP9, VVC H.266, VC-1, MPEG-2, XVID |
 | 7 | `audio` | **Immersive Audio** | Dolby Atmos, Dolby Digital+, 5.1 Surround, 7.1 Surround, TrueHD, DTS-HD MA, DTS:X, Lossless FLAC, AAC, Opus |
 | 8 | `source` | **Source & Rips** | REMUX Lossless, UHD Blu-ray, Blu-ray Disc, WEB-DL, WEBRip, HDTV, DVDRip, CAM, TeleSync |
-| 9 | `debrid` | **Debrid & Delivery** | CACHED RD+, Real-Debrid, TorBox, AllDebrid, Premiumize, Uncached, Usenet, P2P, Direct Stream, 50GB+ High Bitrate |
+| 9 | `debrid` | **Debrid & Delivery** | CACHED (TorBox, Real-Debrid, AllDebrid, etc.), Real-Debrid, TorBox, AllDebrid, Premiumize, Uncached, Usenet, P2P, Direct Stream, 50GB+ High Bitrate |
 | 10 | `edition` | **Editions & Cuts** | IMAX Enhanced, Criterion Collection, Director's Cut, Extended Cut, Theatrical Cut, Remastered, Special Edition |
 | 11 | `release` | **Release Flags** | Proper, Repack, Internal, Limited, Season Pack, V2 Revised |
 | 12 | `container` | **Containers** | MKV Container, MP4 Container, M2TS Blu-Ray, AVI Container, TS Stream |

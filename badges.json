@@ -2601,7 +2601,7 @@
       "id": "torbox",
       "groupId": "delivery",
       "name": "TorBox",
-      "pattern": "(?i)\\[tb\\+?\\]|\\btorbox\\b",
+      "pattern": "(?i)\\[(?:tb|torbox)\\+?\\]|\\btorbox\\+?\\b|\\bTB\\+\\b",
       "imageURL": "https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges/torbox.webp",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
