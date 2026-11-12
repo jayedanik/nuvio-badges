@@ -2,135 +2,93 @@
 
 An authentic, ultra-clean, background-free stream badge system designed specifically for **Nuvio** media player.
 
-Featuring **100% pure transparent floating brand logos**, complete coverage of **Bangladeshi & Bengali OTTs**, **Indian National & Regional OTTs**, **Major Hollywood & World Film Studios**, **Studio Audio/Video Assets**, and crisp **minimalist typography** (zero clunky pill wrappers).
+Featuring **100% pure transparent floating brand logos**, **StreamBridge Serial Hierarchy**, complete coverage of **Bangladeshi & Bengali OTTs**, **Indian National & Regional OTTs**, **Major Hollywood & World Film Studios**, **Studio Audio/Video Assets**, and crisp **minimalist typography** (zero clunky pill wrappers).
 
 ---
 
 ## ⚡ 1-Click Setup for Nuvio
 
-Copy and paste this raw JSON URL into your Nuvio settings:
+Copy and paste this URL directly into **Nuvio Player Settings ➔ Markers / Badges**:
 
 ```text
 https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
 ```
 
-### 📱 How to Apply:
-1. Open **Nuvio** on your Android TV, Firestick, Mobile, or Desktop.
-2. Navigate to **Settings** ➔ **Layout** ➔ **Streams** ➔ **Fusion Badge URLs** (or **Badge URLs**).
-3. Paste the URL above and save.
-4. Restart Nuvio or refresh your stream list!
+---
+
+## 💎 Live In-App Stream Appearance (StreamBridge Serial Hierarchy)
+
+Badges are sequenced in the authentic **StreamBridge Golden Order**, ensuring every stream title is organized logically from source to release details:
+
+```text
+[Platform / Studio] ➔ [Resolution] ➔ [HDR / IMAX] ➔ [Video Codec] ➔ [Bit-Depth] ➔ [Frame Rate] ➔ [Audio] ➔ [Channels] ➔ [Source] ➔ [Edition] ➔ [Delivery] ➔ [Country / Flag] ➔ [Subtitles]
+```
+
+![Nuvio In-App Stream Showcase](previews/stream-preview.png)
 
 ---
 
-## 📸 Visual Showcase & Previews
+## 🎨 Complete Visual Master Catalog
 
-### 1. In-App Nuvio Stream Appearance
-Experience clean, high-contrast, distraction-free stream listings on your TV and mobile:
-
-![Stream List Preview](previews/stream-preview.png)
+![Nuvio Master Catalog](previews/master-catalog.png)
 
 ---
 
-### 2. Official Brand Logos (No Boxes, No Wrappers)
-100% pure floating official vector bezier graphics with transparent backgrounds:
+## 🌟 Transparent Floating Brand Logos Showcase
 
-![Brand Logos Showcase](previews/brand-logos.png)
-
----
-
-### 3. Complete Master Badge Catalog (300+ Badges)
-Categorized across Global OTTs, Bangladeshi OTTs, Indian OTTs, Film Studios, Audio/Video, Codecs, and Global Countries:
-
-![Master Badge Catalog](previews/master-catalog.png)
+![Official Brand Logos](previews/brand-logos.png)
 
 ---
 
-## ✨ Features & What's Included
+## 📋 Comprehensive Feature Highlights
 
-### 🇧🇩 1. Full Bangladeshi & Bengali OTT Platform Coverage
-- **Hoichoi** (Bulletproof scene regex matching `hoichoi`, `HC.WEB-DL`, `[HC]`, `hmp`)
-- **Chorki** (Official magenta brand mark & scene matching)
-- **Toffee** (Banglalink)
-- **Binge BD** (Robi Axiata)
-- **Bioscope** (Grameenphone)
-- **Bongo BD**
-- **DeeptoPlay** (Deepto TV)
-- **Banglaflix**
-- **Cinematic BD**
-- **RabbitholeBD**
-- **KLIKK** (Bengali)
-- **Addatimes** (Bengali)
+### 1. 100% Transparent Floating Vector Badges (No Boxes, No Pills)
+- **Zero background rectangles or clunky pills**: every badge floats naturally over your backdrop.
+- Clean **Text-White typography** for technical specs (Codecs, Channels, Sources, Editions).
+- Authentic **vector brand wordmarks** with native corporate colors (Netflix Red, Prime Video Blue, Disney+ Ice, Max Purple, Apple White, Paramount Blue).
 
-### 🇮🇳 2. Indian National & Regional OTT Platforms
-- **JioHotstar / Hotstar**
-- **JioCinema**
-- **Zee5**
-- **SonyLIV**
-- **Sun NXT** (South Indian)
-- **Aha Video** (Telugu & Tamil)
-- **MX Player**
-- **Eros Now**
-- **Hungama Play**
-- **ShemarooMe**
-- **ManoramaMAX** (Malayalam)
-- **Chaupal** (Punjabi / Bhojpuri / Haryanvi)
-- **Planet Marathi** (Marathi)
-- **Stage** (Regional dialects)
-- **ALTT** (ALTBalaji)
-- **Ullu**
+### 2. StreamBridge Serial Group Ordering (16 Structured Categories)
+1. **Streaming Service & Studios** (`service`) — Where the stream originated or was produced.
+2. **Resolution** (`resolution`) — 8K, 4K UHD, 1440p QHD, 1080p FHD, 720p HD, 576p, 480p SD.
+3. **HDR & Dynamic Range** (`hdr`) — Dolby Vision (Profile 5/7/8), HDR10+, HDR10, HDR, HLG, SDR, IMAX Enhanced, IMAX, 3D.
+4. **Video Codec** (`codec`) — HEVC (H.265), AVC (H.264), AV1 Next-Gen, VVC (H.266), VP9, VC-1, MPEG-2.
+5. **Color Bit Depth** (`bit-depth`) — 10-Bit, 12-Bit, 8-Bit.
+6. **Frame Rate** (`framerate`) — 120 FPS, 60 FPS, 50 FPS, HFR.
+7. **Audio Format** (`audio`) — Dolby Atmos, Dolby TrueHD, Dolby Digital Plus (E-AC-3), Dolby Digital (AC-3), DTS:X, DTS-HD Master Audio, DTS-HD HRA, DTS, AAC, FLAC Lossless, OPUS, MP3, LPCM.
+8. **Audio Channels** (`channels`) — 7.1 Surround, 6.1 Surround, 5.1 Surround, 2.0 Stereo, 1.0 Mono.
+9. **Source & Rip Type** (`source`) — REMUX (Lossless), Full Disc, UHD Blu-ray, Blu-ray, DVD REMUX, WEB-DL, WEBRip, HDRip, HDTV, DVDRip, CAM / Telesync.
+10. **Edition & Special Cuts** (`edition`) — Director's Cut, Extended Cut, Theatrical, Criterion Collection, Remastered, Unrated, Special Anniversary, Uncensored, Hybrid, Open Matte, Black & White.
+11. **Debrid & Delivery** (`delivery`) — Cached [RD+], Real-Debrid, TorBox, AllDebrid, Premiumize, USENET, P2P, Direct, 50 GB+ Large File.
+12. **Audio Language & Flags** (`language`) — **Bangladesh (🇧🇩) #1**, India (🇮🇳 Hindi, Tamil, Telugu, Malayalam, Kannada, Punjabi, Marathi, Gujarati), USA/UK English, Japan, Korea, France, Germany, Spain, Italy, Russia, China, Dual Audio, Multi Audio, Original Audio.
+13. **Subtitles** (`subtitles`) — Embedded Subs (ESub), Multi-Subtitles (MSubs), SDH, Forced Subs, VOSTFR.
+14. **Release Flags** (`flags`) — PROPER, REPACK, INTERNAL, LIMITED, Season Pack, Anime Batch v2.
+15. **Container Format** (`container`) — MKV, MP4, M2TS, AVI.
+16. **Live TV** (`live`) — LIVE, 24/7, PPV, HD/SD feeds, Catch-up.
 
-### 🎬 3. Major Film Studios & Production Houses
-- **A24**
-- **Warner Bros. Pictures**
-- **Universal Pictures**
-- **Paramount Pictures**
-- **Columbia Pictures / Sony Pictures**
-- **Marvel Studios**
-- **DC Studios / DC Comics**
-- **Lucasfilm / Star Wars**
-- **Pixar Animation Studios**
-- **20th Century Studios**
-- **Lionsgate**
-- **NEON Rated**
-- **Blumhouse Productions**
-- **Studio Ghibli**
-- **Yash Raj Films (YRF)**
-- **Dharma Productions**
-- **Red Chillies Entertainment**
-- **SVF Entertainment** (Shree Venkatesh Films)
-- **Jaaz Multimedia**
+### 3. Bangladeshi & Bengali OTT Coverage (Bulletproof Regex)
+- **Hoichoi (`HC`, `HC.WEB-DL`, `[HC]`, `hmp`)** — Full support for Bangladeshi and West Bengal scene releases.
+- **Chorki (`CHORKI`, `chorki.com`)**
+- **Toffee (`TOFFEE`, `Beximco`)**
+- **Binge BD (`BINGE`, `Redgroove`)**
+- **Bioscope (`BIOC`, `BioscopeLive`)**
+- **Bongo BD (`BONGO`)**
+- **DeeptoPlay (`DEEPTO`, `DeeptoTV`)**
+- **Banglaflix (`BFLIX`)**
+- **Cinematic BD (`CINEMATIC`)**
+- **RabbitholeBD (`RABBITHOLE`)**
+- **KLIKK (`KLIKK`)**
+- **Addatimes (`ADDATIMES`)**
 
-### 🌍 4. Global Countries & Regional Languages (Bangladesh 🇧🇩 #1)
-- **Bangladesh 🇧🇩 (Bengali)**
-- **India 🇮🇳 (Hindi, Tamil, Telugu, Malayalam, Kannada, Marathi, Punjabi, Gujarati, Bhojpuri, Odia, Assamese)**
-- **USA 🇺🇸 (English)**
-- **UK 🇬🇧 (British English)**
-- **Japan 🇯🇵 (Japanese)**
-- **South Korea 🇰🇷 (Korean)**
-- **France 🇫🇷 (French)**
-- **Germany 🇩🇪 (German)**
-- **Spain 🇪🇸 (Spanish / Latino)**
-- **Italy 🇮🇹 (Italian)**
-- **China 🇨🇳 (Chinese / Cantonese)**
-- **Russia 🇷🇺 (Russian)**
-- **Brazil 🇧🇷 (Portuguese)**
-- **Turkey 🇹🇷 (Turkish)**
-- **Arab League 🇸🇦 (Arabic)**
-- **Pakistan 🇵🇰 (Urdu)**
-- **Thailand 🇹🇭 (Thai)**
-- **Indonesia 🇮🇩 (Indonesian)**
-- **Vietnam 🇻🇳 (Vietnamese)**
-- **Philippines 🇵🇭 (Filipino / Tagalog)**
-- Plus Dual Audio, Multi Audio, Original Audio, Dubbed, and Line Audio tags!
+### 4. Indian National & Regional OTT Coverage
+- **JioHotstar**, **JioCinema**, **Zee5**, **SonyLIV**, **Sun NXT**, **Aha Video**, **MX Player**, **Eros Now**, **Hungama Play**, **ALTT / ALTBalaji**, **Ullu**, **ShemarooMe**, **ManoramaMAX**, **Chaupal**, **Planet Marathi**, **Stage**.
 
-### 🎧 5. Studio Audio, Video & HDR Assets
-- **Video:** 4K UHD, 1080p FHD, 720p HD, 1440p QHD, 8K FUHD.
-- **HDR & Picture:** Dolby Vision, HDR10+, HDR10, HLG, IMAX Enhanced, IMAX, 3D, Open Matte.
-- **Audio:** Dolby Atmos, Dolby TrueHD, DTS:X, DTS-HD Master Audio, Dolby Digital Plus (DDP), 7.1 Surround, 5.1 Surround, 2.0 Stereo, AAC, FLAC Lossless, OPUS, LPCM.
-- **Sources & Codecs:** REMUX Lossless, Blu-ray Disc, UHD Blu-ray, WEB-DL, WEBRip, HDTV, HEVC (H.265), AVC (H.264), AV1 Next-Gen, VVC (H.266), VP9.
+### 5. Major Film Studios & Production Houses
+- **Hollywood / International**: A24, Warner Bros. Pictures, Universal Pictures, Paramount Pictures, Columbia Pictures (Sony), Marvel Studios, DC Studios, Lucasfilm, Pixar Animation, 20th Century Studios, Lionsgate, NEON, Blumhouse, Studio Ghibli.
+- **Indian & Bengali**: Yash Raj Films (YRF), Dharma Productions, Red Chillies Entertainment, SVF Entertainment, Jaaz Multimedia.
 
 ---
 
-## 📄 License & Credits
-- Badge kit maintained and customized by [@jayedanik](https://github.com/jayedanik).
-- All brand logos and trademarks belong to their respective copyright holders.
+## 🛠️ Maintained By
+
+Developed & curated with ❤️ by [@jayedanik](https://github.com/jayedanik).
+Licensed under MIT.
