@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/jayedanik/nuvio-master-badge-system"><img src="https://img.shields.io/badge/System-Nuvio_Master_Badges-00f2fe?style=flat-square" alt="Nuvio" /></a>
   <a href="badges.json"><img src="https://img.shields.io/badge/Badges-396_Stream_Rules-9b51e0?style=flat-square" alt="Badges" /></a>
-  <a href="badges/"><img src="https://img.shields.io/badge/Assets-501_WebP_Files-3b82f6?style=flat-square" alt="Assets" /></a>
+  <a href="badges/"><img src="https://img.shields.io/badge/Assets-509_WebP_Files-3b82f6?style=flat-square" alt="Assets" /></a>
   <a href="#theme-universes"><img src="https://img.shields.io/badge/Themes-11_Universes-f59e0b?style=flat-square" alt="Themes" /></a>
   <a href="badges.json"><img src="https://img.shields.io/badge/Scale-96px_Native-00ff88?style=flat-square" alt="96px Scale" /></a>
   <a href="#performance-architecture"><img src="https://img.shields.io/badge/Footprint-3.1_MB_Total-ff007f?style=flat-square" alt="Size" /></a>
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <sub>Next-generation media stream badge system crafted for Nuvio media player — 396 curated stream badges (509 master WebP assets with fallbacks & aliases) across 18 specialized groups: 73 streaming platforms, 67 film & television studios, 4K/8K formats, spatial audio codecs, high-speed Debrid services, torrent indexers, and 110 sovereign world languages and territories.<br/>Engineered for pure background-free playback, zero loading latency (~3.1 MB total footprint), and calibrated compact proportions for overflow-free TV, PC, and mobile viewing.</sub>
+  <sub>Next-generation media stream badge system crafted for Nuvio media player — 396 curated stream badges (509 master WebP assets with fallbacks & aliases) across 19 specialized groups: 73 streaming platforms, 67 film & television studios, 4K/8K formats, spatial audio codecs, high-speed Debrid services, torrent indexers, and 110 sovereign world languages and territories.<br/>Engineered for pure background-free playback, zero loading latency (~3.1 MB total footprint), and calibrated compact proportions for overflow-free TV, PC, and mobile viewing.</sub>
 </p>
 
 ---
@@ -184,7 +184,7 @@ Built from the ground up to ensure Nuvio player operates at **maximum frame rate
 
 * **Feather-Light Footprint:** Exactly **396 stream filter rules** backed by **509 master WebP assets** weighing just **3.12 MB** (~6.8 KB average per badge).
 * **Instant In-Memory Caching:** Any movie or TV stream displays at most 6–8 badges (~40–60 KB total data). Once downloaded, Nuvio caches them in memory instantly.
-* **100% In-App Counter Synchronization:** Mapped across 18 distinct groups (with dedicated Film Production Studios immediately following Streaming Services), aligning 1:1 with Nuvio's in-app badge counter (exactly 396 enabled badges) while guaranteeing fallback support with 509 high-resolution WebP files and aliases.
+* **100% In-App Counter Synchronization:** Mapped across 19 distinct groups (with dedicated Film Production Studios followed immediately by Television & Film Production Studios), aligning 1:1 with Nuvio's in-app badge counter (exactly 396 enabled badges) while guaranteeing fallback support with 509 high-resolution WebP files and aliases.
 * **Pre-Rendered 96px Standard:** Every badge is rendered to the exact native 96px canvas height with calibrated horizontal margins. The player performs zero on-the-fly resizing or heavy CPU scaling, guaranteeing butter-smooth 60/120 FPS playback.
 * **Zero Player Clipping Guarantee:** Intelligent deduplication regex filters (e.g. prioritizing Dolby Vision over generic HDR, and Dolby Atmos over DDP) eliminate visual redundancy and prevent horizontal container overflow or edge cutoff across Mobile, Tablet, PC, and 4K TV screens.
 * **100% Background-Free (`#00000000`):** Transparent alpha channels with zero artificial drop-shadow blobs or black bounding boxes, eliminating GPU compositing overhead.

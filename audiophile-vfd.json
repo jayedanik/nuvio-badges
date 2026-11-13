@@ -9,7 +9,14 @@
     },
     {
       "id": "studio",
-      "name": "Film & Television Studios",
+      "name": "Film Production Studios",
+      "color": "#00000000",
+      "borderColor": "#00000000",
+      "isExpanded": true
+    },
+    {
+      "id": "tv-studio",
+      "name": "Television & Film Production Studios",
       "color": "#00000000",
       "borderColor": "#00000000",
       "isExpanded": true
@@ -5174,7 +5181,7 @@
     },
     {
       "id": "amc",
-      "groupId": "studio",
+      "groupId": "tv-studio",
       "name": "AMC Networks / Studios",
       "pattern": "(?i)\\b(?:amc(?:\\s*studios|\\s*networks)?)\\b",
       "imageURL": "https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/themes/audiophile-vfd/badges/amc.webp",
@@ -5187,7 +5194,7 @@
     },
     {
       "id": "bbc",
-      "groupId": "studio",
+      "groupId": "tv-studio",
       "name": "BBC Studios",
       "pattern": "(?i)\\b(?:bbc(?:\\s*studios|\\s*worldwide)?)\\b",
       "imageURL": "https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/themes/audiophile-vfd/badges/bbc.webp",
@@ -5200,7 +5207,7 @@
     },
     {
       "id": "fx",
-      "groupId": "studio",
+      "groupId": "tv-studio",
       "name": "FX Productions",
       "pattern": "(?i)\\b(?:fx(?:\\s*productions|\\s*networks)?|fxp)\\b",
       "imageURL": "https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/themes/audiophile-vfd/badges/fx.webp",
@@ -5213,7 +5220,7 @@
     },
     {
       "id": "thecw",
-      "groupId": "studio",
+      "groupId": "tv-studio",
       "name": "The CW",
       "pattern": "(?i)\\b(?:the\\s*cw|cw\\s*network)\\b",
       "imageURL": "https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/themes/audiophile-vfd/badges/thecw.webp",
@@ -5226,7 +5233,7 @@
     },
     {
       "id": "syfy",
-      "groupId": "studio",
+      "groupId": "tv-studio",
       "name": "Syfy",
       "pattern": "(?i)\\b(?:syfy)\\b",
       "imageURL": "https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/themes/audiophile-vfd/badges/syfy.webp",
@@ -5239,7 +5246,7 @@
     },
     {
       "id": "natgeo",
-      "groupId": "studio",
+      "groupId": "tv-studio",
       "name": "National Geographic",
       "pattern": "(?i)\\b(?:nat[\\s._-]?geo|national[\\s._-]?geographic(?:[\\s._-]?channel)?)\\b",
       "imageURL": "https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/themes/audiophile-vfd/badges/natgeo.webp",
@@ -5252,7 +5259,7 @@
     },
     {
       "id": "cbs",
-      "groupId": "studio",
+      "groupId": "tv-studio",
       "name": "CBS Studios",
       "pattern": "(?i)\\b(?:cbs(?:\\s*studios|\\s*television\\s*studios)?)\\b",
       "imageURL": "https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/themes/audiophile-vfd/badges/cbs.webp",
@@ -5265,7 +5272,7 @@
     },
     {
       "id": "itv",
-      "groupId": "studio",
+      "groupId": "tv-studio",
       "name": "ITV Studios",
       "pattern": "(?i)\\b(?:itv(?:\\s*studios)?)\\b",
       "imageURL": "https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/themes/audiophile-vfd/badges/itv.webp",
