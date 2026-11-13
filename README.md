@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="previews/nuvio-hero.svg?v=v3.7.3" alt="Nuvio — Master Badge System" width="100%" />
+  <img src="previews/nuvio-hero.svg?v=v3.7.5" alt="Nuvio — Master Badge System" width="100%" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 Every stream in Nuvio can be experienced across **11 radically distinct physical material universes**. Rather than a static look, choose an aesthetic that matches your personal theater setup:
 
 <p align="center">
-  <img src="previews/theme-ecosystem.jpg?v=v3.7.3" alt="11 Masterpiece Theme Universes" width="100%" />
+  <img src="previews/theme-ecosystem.jpg?v=v3.7.5" alt="11 Masterpiece Theme Universes" width="100%" />
 </p>
 
 * **Zero CPU Overhead:** Every theme is pre-rendered at native 96px standard canvas height. Switching themes in Nuvio requires zero re-scaling or image reprocessing.
@@ -39,7 +39,7 @@ Every stream in Nuvio can be experienced across **11 radically distinct physical
 > Ultra-clean floating OLED typography with official Dolby and HDR branding
 
 <p align="center">
-  <img src="previews/preview-pristine.jpg?v=v3.7.3" alt="Pristine Master" width="100%" />
+  <img src="previews/preview-pristine.jpg?v=v3.7.5" alt="Pristine Master" width="100%" />
 </p>
 
 ```text
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/badge
 > Enhanced frameless studio production markers with prismatic HDR spectrum & metallic accents
 
 <p align="center">
-  <img src="previews/preview-studio-markers.jpg?v=v3.7.3" alt="StreamBridge Studio Markers Enhanced" width="100%" />
+  <img src="previews/preview-studio-markers.jpg?v=v3.7.5" alt="StreamBridge Studio Markers Enhanced" width="100%" />
 </p>
 
 ```text
@@ -65,7 +65,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/studi
 > Double-shot mechanical keyboard keycaps with Cherry MX stems & concave dish legends
 
 <p align="center">
-  <img src="previews/preview-gmk-keycaps.jpg?v=v3.7.3" alt="GMK Custom Keycaps" width="100%" />
+  <img src="previews/preview-gmk-keycaps.jpg?v=v3.7.5" alt="GMK Custom Keycaps" width="100%" />
 </p>
 
 ```text
@@ -78,7 +78,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/gmk-k
 > Translucent frosted pudding keycaps with intense dynamic RGB underglow
 
 <p align="center">
-  <img src="previews/preview-rgb-keycaps.jpg?v=v3.7.3" alt="Neon RGB Pudding Keycaps" width="100%" />
+  <img src="previews/preview-rgb-keycaps.jpg?v=v3.7.5" alt="Neon RGB Pudding Keycaps" width="100%" />
 </p>
 
 ```text
@@ -91,7 +91,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/rgb-k
 > Authentic perforated box-office admission ticket stubs with 24K gold foil trim
 
 <p align="center">
-  <img src="previews/preview-cinema-ticket.jpg?v=v3.7.3" alt="Vintage Cinema Ticket" width="100%" />
+  <img src="previews/preview-cinema-ticket.jpg?v=v3.7.5" alt="Vintage Cinema Ticket" width="100%" />
 </p>
 
 ```text
@@ -104,7 +104,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/cinem
 > Handcrafted jewelry metal badges with polished 24K gold brass edging & glossy enamel
 
 <p align="center">
-  <img src="previews/preview-enamel-pins.jpg?v=v3.7.3" alt="Cloisonné Enamel Pins" width="100%" />
+  <img src="previews/preview-enamel-pins.jpg?v=v3.7.5" alt="Cloisonné Enamel Pins" width="100%" />
 </p>
 
 ```text
@@ -117,7 +117,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/ename
 > Authentic 1980s analog magnetic cassette labels with vintage tracking and barcode
 
 <p align="center">
-  <img src="previews/preview-vhs-tape.jpg?v=v3.7.3" alt="Retro VHS Magnetic Tape" width="100%" />
+  <img src="previews/preview-vhs-tape.jpg?v=v3.7.5" alt="Retro VHS Magnetic Tape" width="100%" />
 </p>
 
 ```text
@@ -130,7 +130,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/vhs-t
 > Real wooden movie production clapperboard with angled slate diagonal stripes
 
 <p align="center">
-  <img src="previews/preview-clapperboard.jpg?v=v3.7.3" alt="Director Cinema Clapperboard" width="100%" />
+  <img src="previews/preview-clapperboard.jpg?v=v3.7.5" alt="Director Cinema Clapperboard" width="100%" />
 </p>
 
 ```text
@@ -143,7 +143,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/clapp
 > Vintage Japanese high-end vacuum fluorescent display with vivid glowing cyan phosphor
 
 <p align="center">
-  <img src="previews/preview-audiophile-vfd.jpg?v=v3.7.3" alt="Audiophile Vacuum Fluorescent" width="100%" />
+  <img src="previews/preview-audiophile-vfd.jpg?v=v3.7.5" alt="Audiophile Vacuum Fluorescent" width="100%" />
 </p>
 
 ```text
@@ -156,7 +156,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/audio
 > Distressed industrial cyberpunk inspection tags with hazard accents
 
 <p align="center">
-  <img src="previews/preview-neotokyo-tag.jpg?v=v3.7.3" alt="Neo-Tokyo Cyberpunk Tag" width="100%" />
+  <img src="previews/preview-neotokyo-tag.jpg?v=v3.7.5" alt="Neo-Tokyo Cyberpunk Tag" width="100%" />
 </p>
 
 ```text
@@ -169,7 +169,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/neoto
 > Luxurious hand-stitched archival leather binding with genuine 24K gold foil stamping
 
 <p align="center">
-  <img src="previews/preview-criterion-leather.jpg?v=v3.7.3" alt="Criterion Archival Leather" width="100%" />
+  <img src="previews/preview-criterion-leather.jpg?v=v3.7.5" alt="Criterion Archival Leather" width="100%" />
 </p>
 
 ```text
@@ -262,6 +262,21 @@ Arranged in Nuvio to display immediately after streaming platforms for authentic
 | <img src="badges/hulu.webp" height="28" alt="Hulu" /> | **Hulu** | `hulu.webp` | Native Master |
 | <img src="badges/peacock.webp" height="28" alt="Peacock" /> | **Peacock** | `peacock.webp` | Native Master |
 | <img src="badges/crunchyroll.webp" height="28" alt="Crunchyroll" /> | **Crunchyroll** | `crunchyroll.webp` | Native Master |
+
+---
+
+---
+
+## Active Development Roadmap & Upcoming Expansions
+
+The Nuvio Master Badge System is in continuous, active evolution. Additional master stream badges, global boutique cinema houses, regional streaming services, niche anime studios, and specialized audiophile codec markers are currently being handcrafted in the development laboratory.
+
+* **Wave 2 Cinema Expansions:** Niche European, Nordic, and Latin American film production studios.
+* **Global Television Networks:** Regional broadcast stations, sports channels, and premium live providers.
+* **Next-Generation Formats:** Emerging spatial audio codecs, lossless audiophile bitstreams, and future video containers.
+* **Continuous Updates:** Zero-latency delivery with instant backwards compatibility across all 11 themes.
+
+The universe never stops expanding. Stay tuned for the next major drop.
 
 ---
 
