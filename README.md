@@ -3,53 +3,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jayedanik/nuvio-badges"><img src="https://img.shields.io/badge/Nuvio-Master_Badge_System-00f2fe?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTggNXYxNGwxMS03eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white" alt="Nuvio" /></a>
-  <a href="badges.json"><img src="https://img.shields.io/badge/Badges-395_Master-9b51e0?style=for-the-badge" alt="Badges" /></a>
-  <a href="#-10-masterpiece-theme-collections"><img src="https://img.shields.io/badge/Themes-10_Universes-f59e0b?style=for-the-badge" alt="Themes" /></a>
-  <a href="badges.json"><img src="https://img.shields.io/badge/Scale-96px_Native-00ff88?style=for-the-badge" alt="96px Scale" /></a>
-  <a href="#-performance--zero-lag-architecture"><img src="https://img.shields.io/badge/Size-2.6_MB_Lightweight-ff007f?style=for-the-badge" alt="Size" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-ffd700?style=for-the-badge" alt="License" /></a>
+  <a href="https://github.com/jayedanik/nuvio-badges"><img src="https://img.shields.io/badge/System-Nuvio_Master_Badges-00f2fe?style=flat-square" alt="Nuvio" /></a>
+  <a href="badges.json"><img src="https://img.shields.io/badge/Collection-395_Master_Badges-9b51e0?style=flat-square" alt="Badges" /></a>
+  <a href="#theme-universes"><img src="https://img.shields.io/badge/Themes-10_Universes-f59e0b?style=flat-square" alt="Themes" /></a>
+  <a href="badges.json"><img src="https://img.shields.io/badge/Scale-96px_Native-00ff88?style=flat-square" alt="96px Scale" /></a>
+  <a href="#performance-architecture"><img src="https://img.shields.io/badge/Footprint-2.6_MB_Total-ff007f?style=flat-square" alt="Size" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-ffd700?style=flat-square" alt="License" /></a>
 </p>
 
 <p align="center">
-  <sub>Next-generation media stream badge system crafted for Nuvio media player — 395 custom badges across 65+ streaming platforms, cinema studios, 4K/8K formats, spatial audio codecs, and 95 sovereign world languages.<br/>Engineered for pure background-free playback, zero loading latency (~2.6 MB footprint), and optical TV/PC legibility.</sub>
+  <sub>Next-generation media stream badge system crafted for Nuvio media player — 395 custom badges across 65+ streaming platforms, cinema studios, 4K/8K formats, spatial audio codecs, and 95 sovereign world languages.<br/>Engineered for pure background-free playback, zero loading latency (~2.6 MB total footprint), and optical TV/PC legibility.</sub>
 </p>
 
 ---
 
-### 📑 Quick Navigation
-
-* [⚡ Quick Setup & 1-Click Manifests](#-quick-setup--1-click-manifests)
-* [🎨 10-Theme Master Experience & Ecosystem](#-10-theme-master-experience--ecosystem)
-* [💎 10 Masterpiece Theme Showcases](#-10-masterpiece-theme-showcases)
-* [🌍 Master Badge Catalogue & Languages](#-master-badge-catalogue--languages)
-* [🚀 Performance & Zero-Lag Architecture](#-performance--zero-lag-architecture)
-* [🇧🇩 Flagship Bangladeshi & Regional OTT](#-flagship-bangladeshi--regional-ott)
-* [🌐 Global Streaming Giants](#-global-streaming-giants)
-* [🔬 Technical Specifications](#-technical-specifications)
-
----
-
-### ⚡ Quick Setup & 1-Click Manifests
-
-Paste any of the direct manifest URLs below into **Nuvio Player → Settings → Markers / Badges**:
-
-| Theme Universe | Aesthetic Architecture | Direct 1-Click Manifest URL |
-|:---------------|:-----------------------|:----------------------------|
-| 🌟 **Pristine Master** (Default) | Floating OLED Typography | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json` |
-| ⌨️ **GMK Custom Keycaps** | Spherical PBT Dish Hardware | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/gmk-keycaps.json` |
-| 🌈 **Neon RGB Pudding Keycaps** | Translucent Cyan Underglow | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/rgb-keycaps.json` |
-| 🎟️ **Vintage Cinema Ticket** | Perforated Dashed Gold Stub | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/cinema-ticket.json` |
-| 🏅 **Cloisonné Enamel Pins** | Cast Jewelry 24K Brass Rim | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/enamel-pins.json` |
-| 📼 **Retro VHS Magnetic Tape** | 1980s Synthwave Pink Spine | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/vhs-tape.json` |
-| 🎬 **Director Clapperboard** | Hollywood Studio Chevron Top | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/clapperboard.json` |
-| 📟 **Audiophile VFD Display** | Hi-Fi Cyan Phosphor Tube | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/audiophile-vfd.json` |
-| 🔮 **Neo-Tokyo Cyberpunk Tag** | Shibuya Acrylic Hologram | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/neotokyo-tag.json` |
-| 📜 **Criterion Archival Leather** | Debossed Saddle Gold Stamping | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/criterion-leather.json` |
-
----
-
-### 🎨 10-Theme Master Experience & Ecosystem
+## Theme Architecture & Ecosystem
 
 Every stream in Nuvio can be experienced across **10 radically distinct physical material universes**. Rather than a static look, choose an aesthetic that matches your personal theater setup:
 
@@ -59,143 +27,103 @@ Every stream in Nuvio can be experienced across **10 radically distinct physical
 
 * **Zero CPU Overhead:** Every theme is pre-rendered at native 96px standard canvas height. Switching themes in Nuvio requires zero re-scaling or image reprocessing.
 * **100% Theme Harmonization:** Badges inside every theme (from 4K UHD and Dolby Vision to regional OTTs and Sovereign Flags) follow that theme's exact silhouette, borders, textures, and typography.
-* **Streamlined Memory Cache:** The entire multi-theme package is compressed with modern WebP lossless/near-lossless technology, loading in fractions of a millisecond.
+* **Streamlined Memory Cache:** The entire multi-theme package is compressed with modern WebP technology, loading in fractions of a millisecond.
 
 ---
 
-### 💎 10 Masterpiece Theme Showcases
+## Theme Universes
 
-#### 🌟 Theme 0: Pristine Master (Default)
-> Ultra-clean floating OLED vector typography with official Dolby branding
+### 01. Pristine Master (Default)
+> Ultra-clean floating OLED typography with official Dolby and HDR branding
 
 <p align="center">
   <img src="previews/preview-pristine.jpg" alt="Pristine Master" width="100%" />
 </p>
 
-```
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
-```
-
 ---
 
-#### ⌨️ Theme 1: GMK Custom Keycaps
-> Classic Dark PBT mechanical hardware with spherical dish scoop & angled skirt drop shadow
+### 02. GMK Custom Keycaps
+> Double-shot mechanical keyboard keycaps with Cherry MX stems & concave dish legends
 
 <p align="center">
   <img src="previews/preview-gmk-keycaps.jpg" alt="GMK Custom Keycaps" width="100%" />
 </p>
 
-```
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/gmk-keycaps.json
-```
-
 ---
 
-#### 🌈 Theme 2: Neon RGB Pudding Keycaps
-> Translucent milky pudding keycaps with intense dynamic RGB underglow & Cherry MX stems
+### 03. Neon RGB Pudding Keycaps
+> Translucent frosted pudding keycaps with intense dynamic RGB underglow
 
 <p align="center">
   <img src="previews/preview-rgb-keycaps.jpg" alt="Neon RGB Pudding Keycaps" width="100%" />
 </p>
 
-```
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/rgb-keycaps.json
-```
-
 ---
 
-#### 🎟️ Theme 3: Vintage Cinema Ticket
-> Classic perforated box-office admission ticket stubs with genuine retro cinema textures
+### 04. Vintage Cinema Ticket
+> Authentic perforated box-office admission ticket stubs with 24K gold foil trim
 
 <p align="center">
   <img src="previews/preview-cinema-ticket.jpg" alt="Vintage Cinema Ticket" width="100%" />
 </p>
 
-```
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/cinema-ticket.json
-```
-
 ---
 
-#### 🏅 Theme 4: Cloisonné Enamel Pins
-> Handcrafted jewelry metal badges with polished gold brass edging and rich glossy enamel fill
+### 05. Cloisonné Enamel Pins
+> Handcrafted jewelry metal badges with polished 24K gold brass edging & glossy enamel
 
 <p align="center">
   <img src="previews/preview-enamel-pins.jpg" alt="Cloisonné Enamel Pins" width="100%" />
 </p>
 
-```
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/enamel-pins.json
-```
-
 ---
 
-#### 📼 Theme 5: Retro VHS Magnetic Tape
-> Authentic 1980s analog magnetic cassette labels with vintage tracking and worn tape patina
+### 06. Retro VHS Magnetic Tape
+> Authentic 1980s analog magnetic cassette labels with vintage tracking and barcode
 
 <p align="center">
   <img src="previews/preview-vhs-tape.jpg" alt="Retro VHS Magnetic Tape" width="100%" />
 </p>
 
-```
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/vhs-tape.json
-```
-
 ---
 
-#### 🎬 Theme 6: Director Cinema Clapperboard
-> Hollywood studio production slate with high-contrast chevron stripes and chalk lettering
+### 07. Director Cinema Clapperboard
+> Real wooden movie production clapperboard with angled slate diagonal stripes
 
 <p align="center">
   <img src="previews/preview-clapperboard.jpg" alt="Director Cinema Clapperboard" width="100%" />
 </p>
 
-```
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/clapperboard.json
-```
-
 ---
 
-#### 📟 Theme 7: Audiophile Vacuum Fluorescent
-> High-end vintage Japanese Hi-Fi vacuum fluorescent display with cyan-phosphor glow
+### 08. Audiophile Vacuum Fluorescent
+> Vintage Japanese high-end vacuum fluorescent display with vivid glowing cyan phosphor
 
 <p align="center">
   <img src="previews/preview-audiophile-vfd.jpg" alt="Audiophile Vacuum Fluorescent" width="100%" />
 </p>
 
-```
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/audiophile-vfd.json
-```
-
 ---
 
-#### 🔮 Theme 8: Neo-Tokyo Cyberpunk Tag
-> Shibuya neon-lit holographic tech security badges with kanji subtext and cyber accents
+### 09. Neo-Tokyo Cyberpunk Tag
+> Distressed industrial cyberpunk inspection tags with hazard accents
 
 <p align="center">
   <img src="previews/preview-neotokyo-tag.jpg" alt="Neo-Tokyo Cyberpunk Tag" width="100%" />
 </p>
 
-```
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/neotokyo-tag.json
-```
-
 ---
 
-#### 📜 Theme 9: Criterion Archival Leather
-> Masterpiece cinema debossed luxury full-grain leather labels with foil hot-stamping
+### 10. Criterion Archival Leather
+> Luxurious hand-stitched archival leather binding with genuine 24K gold foil stamping
 
 <p align="center">
   <img src="previews/preview-criterion-leather.jpg" alt="Criterion Archival Leather" width="100%" />
 </p>
 
-```
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/criterion-leather.json
-```
-
 ---
 
-### 🌍 Master Badge Catalogue & Languages
+## Master Badge Catalogue
 
 Comprehensive reference overview across streaming services, cinema studios, HDR & spatial codecs, bitstreams, and sovereign flags:
 
@@ -203,7 +131,7 @@ Comprehensive reference overview across streaming services, cinema studios, HDR 
   <img src="previews/catalogue.jpg" alt="Master Badge Catalogue" width="100%" />
 </p>
 
-#### 🗺️ 95 Sovereign Languages & National Flags
+### Sovereign Languages & Flags
 
 Accurate audio & subtitle flags engineered with authentic sovereign flag geometry and native scripts:
 
@@ -213,7 +141,7 @@ Accurate audio & subtitle flags engineered with authentic sovereign flag geometr
 
 ---
 
-### 🚀 Performance & Zero-Lag Architecture
+## Performance Architecture
 
 Built from the ground up to ensure Nuvio player operates at **maximum frame rates with zero loading latency or memory pressure**:
 
@@ -224,7 +152,7 @@ Built from the ground up to ensure Nuvio player operates at **maximum frame rate
 
 ---
 
-### 🇧🇩 Flagship Bangladeshi & Regional OTT
+## Regional Streaming Platforms
 
 | Badge | Platform | File | Status |
 |:-----:|:---------|:-----|:-------|
@@ -241,7 +169,7 @@ Built from the ground up to ensure Nuvio player operates at **maximum frame rate
 
 ---
 
-### 🌐 Global Streaming Giants
+## Global Streaming Platforms
 
 | Badge | Platform | File | Status |
 |:-----:|:---------|:-----|:-------|
@@ -257,7 +185,7 @@ Built from the ground up to ensure Nuvio player operates at **maximum frame rate
 
 ---
 
-### 🔬 Technical Specifications
+## Technical Specifications
 
 | Parameter | Specification | Purpose |
 |:----------|:--------------|:--------|
