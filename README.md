@@ -163,24 +163,6 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/criterion-leather.
 
 ---
 
-## Master Badge Catalogue
-
-Comprehensive reference overview across streaming services, cinema studios, HDR & spatial codecs, bitstreams, and sovereign flags:
-
-<p align="center">
-  <img src="previews/catalogue.jpg" alt="Master Badge Catalogue" width="100%" />
-</p>
-
-### Sovereign Languages & Flags
-
-Accurate audio & subtitle flags engineered with authentic sovereign flag geometry and native scripts:
-
-<p align="center">
-  <img src="previews/languages.jpg" alt="Languages and Sovereign Flags" width="100%" />
-</p>
-
----
-
 ## Performance Architecture
 
 Built from the ground up to ensure Nuvio player operates at **maximum frame rates with zero loading latency or memory pressure**:
