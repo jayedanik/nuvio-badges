@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jayedanik/nuvio-badges"><img src="https://img.shields.io/badge/System-Nuvio_Master_Badges-00f2fe?style=flat-square" alt="Nuvio" /></a>
+  <a href="https://github.com/jayedanik/nuvio-master-badge-system"><img src="https://img.shields.io/badge/System-Nuvio_Master_Badges-00f2fe?style=flat-square" alt="Nuvio" /></a>
   <a href="badges.json"><img src="https://img.shields.io/badge/Collection-455_Master_Badges-9b51e0?style=flat-square" alt="Badges" /></a>
   <a href="#theme-universes"><img src="https://img.shields.io/badge/Themes-10_Universes-f59e0b?style=flat-square" alt="Themes" /></a>
   <a href="badges.json"><img src="https://img.shields.io/badge/Scale-96px_Native-00ff88?style=flat-square" alt="96px Scale" /></a>
@@ -42,7 +42,7 @@ Every stream in Nuvio can be experienced across **10 radically distinct physical
 </p>
 
 ```text
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
+https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/badges.json
 ```
 
 ---
@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
 </p>
 
 ```text
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/gmk-keycaps.json
+https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/gmk-keycaps.json
 ```
 
 ---
@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/gmk-keycaps.json
 </p>
 
 ```text
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/rgb-keycaps.json
+https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/rgb-keycaps.json
 ```
 
 ---
@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/rgb-keycaps.json
 </p>
 
 ```text
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/cinema-ticket.json
+https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/cinema-ticket.json
 ```
 
 ---
@@ -94,7 +94,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/cinema-ticket.json
 </p>
 
 ```text
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/enamel-pins.json
+https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/enamel-pins.json
 ```
 
 ---
@@ -107,7 +107,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/enamel-pins.json
 </p>
 
 ```text
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/vhs-tape.json
+https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/vhs-tape.json
 ```
 
 ---
@@ -120,7 +120,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/vhs-tape.json
 </p>
 
 ```text
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/clapperboard.json
+https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/clapperboard.json
 ```
 
 ---
@@ -133,7 +133,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/clapperboard.json
 </p>
 
 ```text
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/audiophile-vfd.json
+https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/audiophile-vfd.json
 ```
 
 ---
@@ -146,7 +146,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/audiophile-vfd.jso
 </p>
 
 ```text
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/neotokyo-tag.json
+https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/neotokyo-tag.json
 ```
 
 ---
@@ -159,7 +159,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/neotokyo-tag.json
 </p>
 
 ```text
-https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/criterion-leather.json
+https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/criterion-leather.json
 ```
 
 ---
