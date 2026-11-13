@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="previews/nuvio-hero.svg?v=v3.5.3" alt="Nuvio — Master Badge System" width="100%" />
+  <img src="previews/nuvio-hero.svg?v=v3.6.0" alt="Nuvio — Master Badge System" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/jayedanik/nuvio-master-badge-system"><img src="https://img.shields.io/badge/System-Nuvio_Master_Badges-00f2fe?style=flat-square" alt="Nuvio" /></a>
-  <a href="badges.json"><img src="https://img.shields.io/badge/Badges-346_Stream_Rules-9b51e0?style=flat-square" alt="Badges" /></a>
-  <a href="badges/"><img src="https://img.shields.io/badge/Assets-456_WebP_Files-3b82f6?style=flat-square" alt="Assets" /></a>
+  <a href="badges.json"><img src="https://img.shields.io/badge/Badges-354_Stream_Rules-9b51e0?style=flat-square" alt="Badges" /></a>
+  <a href="badges/"><img src="https://img.shields.io/badge/Assets-467_WebP_Files-3b82f6?style=flat-square" alt="Assets" /></a>
   <a href="#theme-universes"><img src="https://img.shields.io/badge/Themes-11_Universes-f59e0b?style=flat-square" alt="Themes" /></a>
   <a href="badges.json"><img src="https://img.shields.io/badge/Scale-96px_Native-00ff88?style=flat-square" alt="96px Scale" /></a>
   <a href="#performance-architecture"><img src="https://img.shields.io/badge/Footprint-3.1_MB_Total-ff007f?style=flat-square" alt="Size" /></a>
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <sub>Next-generation media stream badge system crafted for Nuvio media player — 346 curated stream badges (456 master WebP assets with fallbacks & aliases) across 98+ global and regional streaming platforms, cinema studios, 4K/8K formats, spatial audio codecs, high-speed Debrid services, torrent indexers, and 110 sovereign world languages and territories.<br/>Engineered for pure background-free playback, zero loading latency (~3.1 MB total footprint), and calibrated compact proportions for overflow-free TV, PC, and mobile viewing.</sub>
+  <sub>Next-generation media stream badge system crafted for Nuvio media player — 354 curated stream badges (467 master WebP assets with fallbacks & aliases) across 98+ global and regional streaming platforms, cinema studios, 4K/8K formats, spatial audio codecs, high-speed Debrid services, torrent indexers, and 110 sovereign world languages and territories.<br/>Engineered for pure background-free playback, zero loading latency (~3.1 MB total footprint), and calibrated compact proportions for overflow-free TV, PC, and mobile viewing.</sub>
 </p>
 
 ---
@@ -23,7 +23,7 @@
 Every stream in Nuvio can be experienced across **11 radically distinct physical material universes**. Rather than a static look, choose an aesthetic that matches your personal theater setup:
 
 <p align="center">
-  <img src="previews/theme-ecosystem.jpg?v=v3.5.3" alt="11 Masterpiece Theme Universes" width="100%" />
+  <img src="previews/theme-ecosystem.jpg?v=v3.6.0" alt="11 Masterpiece Theme Universes" width="100%" />
 </p>
 
 * **Zero CPU Overhead:** Every theme is pre-rendered at native 96px standard canvas height. Switching themes in Nuvio requires zero re-scaling or image reprocessing.
@@ -39,7 +39,7 @@ Every stream in Nuvio can be experienced across **11 radically distinct physical
 > Ultra-clean floating OLED typography with official Dolby and HDR branding
 
 <p align="center">
-  <img src="previews/preview-pristine.jpg?v=v3.5.3" alt="Pristine Master" width="100%" />
+  <img src="previews/preview-pristine.jpg?v=v3.6.0" alt="Pristine Master" width="100%" />
 </p>
 
 ```text
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/badge
 > Enhanced frameless studio production markers with prismatic HDR spectrum & metallic accents
 
 <p align="center">
-  <img src="previews/preview-studio-markers.jpg?v=v3.5.3" alt="StreamBridge Studio Markers Enhanced" width="100%" />
+  <img src="previews/preview-studio-markers.jpg?v=v3.6.0" alt="StreamBridge Studio Markers Enhanced" width="100%" />
 </p>
 
 ```text
@@ -65,7 +65,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/studi
 > Double-shot mechanical keyboard keycaps with Cherry MX stems & concave dish legends
 
 <p align="center">
-  <img src="previews/preview-gmk-keycaps.jpg?v=v3.5.3" alt="GMK Custom Keycaps" width="100%" />
+  <img src="previews/preview-gmk-keycaps.jpg?v=v3.6.0" alt="GMK Custom Keycaps" width="100%" />
 </p>
 
 ```text
@@ -78,7 +78,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/gmk-k
 > Translucent frosted pudding keycaps with intense dynamic RGB underglow
 
 <p align="center">
-  <img src="previews/preview-rgb-keycaps.jpg?v=v3.5.3" alt="Neon RGB Pudding Keycaps" width="100%" />
+  <img src="previews/preview-rgb-keycaps.jpg?v=v3.6.0" alt="Neon RGB Pudding Keycaps" width="100%" />
 </p>
 
 ```text
@@ -91,7 +91,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/rgb-k
 > Authentic perforated box-office admission ticket stubs with 24K gold foil trim
 
 <p align="center">
-  <img src="previews/preview-cinema-ticket.jpg?v=v3.5.3" alt="Vintage Cinema Ticket" width="100%" />
+  <img src="previews/preview-cinema-ticket.jpg?v=v3.6.0" alt="Vintage Cinema Ticket" width="100%" />
 </p>
 
 ```text
@@ -104,7 +104,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/cinem
 > Handcrafted jewelry metal badges with polished 24K gold brass edging & glossy enamel
 
 <p align="center">
-  <img src="previews/preview-enamel-pins.jpg?v=v3.5.3" alt="Cloisonné Enamel Pins" width="100%" />
+  <img src="previews/preview-enamel-pins.jpg?v=v3.6.0" alt="Cloisonné Enamel Pins" width="100%" />
 </p>
 
 ```text
@@ -117,7 +117,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/ename
 > Authentic 1980s analog magnetic cassette labels with vintage tracking and barcode
 
 <p align="center">
-  <img src="previews/preview-vhs-tape.jpg?v=v3.5.3" alt="Retro VHS Magnetic Tape" width="100%" />
+  <img src="previews/preview-vhs-tape.jpg?v=v3.6.0" alt="Retro VHS Magnetic Tape" width="100%" />
 </p>
 
 ```text
@@ -130,7 +130,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/vhs-t
 > Real wooden movie production clapperboard with angled slate diagonal stripes
 
 <p align="center">
-  <img src="previews/preview-clapperboard.jpg?v=v3.5.3" alt="Director Cinema Clapperboard" width="100%" />
+  <img src="previews/preview-clapperboard.jpg?v=v3.6.0" alt="Director Cinema Clapperboard" width="100%" />
 </p>
 
 ```text
@@ -143,7 +143,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/clapp
 > Vintage Japanese high-end vacuum fluorescent display with vivid glowing cyan phosphor
 
 <p align="center">
-  <img src="previews/preview-audiophile-vfd.jpg?v=v3.5.3" alt="Audiophile Vacuum Fluorescent" width="100%" />
+  <img src="previews/preview-audiophile-vfd.jpg?v=v3.6.0" alt="Audiophile Vacuum Fluorescent" width="100%" />
 </p>
 
 ```text
@@ -156,7 +156,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/audio
 > Distressed industrial cyberpunk inspection tags with hazard accents
 
 <p align="center">
-  <img src="previews/preview-neotokyo-tag.jpg?v=v3.5.3" alt="Neo-Tokyo Cyberpunk Tag" width="100%" />
+  <img src="previews/preview-neotokyo-tag.jpg?v=v3.6.0" alt="Neo-Tokyo Cyberpunk Tag" width="100%" />
 </p>
 
 ```text
@@ -169,7 +169,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/neoto
 > Luxurious hand-stitched archival leather binding with genuine 24K gold foil stamping
 
 <p align="center">
-  <img src="previews/preview-criterion-leather.jpg?v=v3.5.3" alt="Criterion Archival Leather" width="100%" />
+  <img src="previews/preview-criterion-leather.jpg?v=v3.6.0" alt="Criterion Archival Leather" width="100%" />
 </p>
 
 ```text
@@ -182,9 +182,9 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/crite
 
 Built from the ground up to ensure Nuvio player operates at **maximum frame rates with zero loading latency or memory pressure**:
 
-* **Feather-Light Footprint:** Exactly **346 stream filter rules** backed by **455 master WebP assets** weighing just **3.07 MB** (~6.9 KB average per badge).
+* **Feather-Light Footprint:** Exactly **354 stream filter rules** backed by **467 master WebP assets** weighing just **3.07 MB** (~6.9 KB average per badge).
 * **Instant In-Memory Caching:** Any movie or TV stream displays at most 6–8 badges (~40–60 KB total data). Once downloaded, Nuvio caches them in memory instantly.
-* **100% In-App Counter Synchronization:** Mapped across 17 distinct groups, aligning 1:1 with Nuvio's in-app badge counter (exactly 346 enabled badges) while guaranteeing fallback support with 456 high-resolution WebP files and aliases.
+* **100% In-App Counter Synchronization:** Mapped across 17 distinct groups, aligning 1:1 with Nuvio's in-app badge counter (exactly 354 enabled badges) while guaranteeing fallback support with 467 high-resolution WebP files and aliases.
 * **Pre-Rendered 96px Standard:** Every badge is rendered to the exact native 96px canvas height with calibrated horizontal margins. The player performs zero on-the-fly resizing or heavy CPU scaling, guaranteeing butter-smooth 60/120 FPS playback.
 * **Zero Player Clipping Guarantee:** Intelligent deduplication regex filters (e.g. prioritizing Dolby Vision over generic HDR, and Dolby Atmos over DDP) eliminate visual redundancy and prevent horizontal container overflow or edge cutoff across Mobile, Tablet, PC, and 4K TV screens.
 * **100% Background-Free (`#00000000`):** Transparent alpha channels with zero artificial drop-shadow blobs or black bounding boxes, eliminating GPU compositing overhead.

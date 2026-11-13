@@ -212,9 +212,9 @@
 
     <!-- Stats row at bottom -->
     <g transform="translate(600, 262)">
-      <!-- Stat 1: 346 Badges (455 Assets) -->
+      <!-- Stat 1: 354 Badges (467 Assets) -->
       <g transform="translate(-240, 0)">
-        <text x="0" y="0" text-anchor="middle" class="stat-val" fill="url(#accent-glow)">346</text>
+        <text x="0" y="0" text-anchor="middle" class="stat-val" fill="url(#accent-glow)">354</text>
         <text x="0" y="18" text-anchor="middle" class="stat-lbl">BADGES</text>
       </g>
       
@@ -252,7 +252,7 @@
     <!-- Version tag -->
     <g transform="translate(1160, 30)">
       <rect x="-28" y="-10" width="56" height="20" rx="10" fill="none" stroke="#30363d" stroke-width="0.5"/>
-      <text x="0" y="4" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-weight="600" font-size="10" fill="#6e7681">v3.5.3</text>
+      <text x="0" y="4" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-weight="600" font-size="10" fill="#6e7681">v3.6.0</text>
     </g>
   </g>
 </svg>
