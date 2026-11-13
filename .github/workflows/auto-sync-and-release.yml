@@ -1,0 +1,46 @@
+name: Auto Sync & Badge System Integrity
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'badges.json'
+      - 'badges/**'
+      - 'themes/**'
+      - 'VERSION'
+      - 'scripts/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Master Sync Engine
+        run: |
+          python scripts/sync_repo_master.py
+
+      - name: Commit and Push Synchronized Assets
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add previews/nuvio-hero.svg README.md VERSION
+          if git diff --staged --quiet; then
+            echo "Everything is already in 100% sync."
+          else
+            git commit -m "chore(sync): auto-sync banner stats, readme and cache busters [skip ci]"
+            git push origin main
+          fi

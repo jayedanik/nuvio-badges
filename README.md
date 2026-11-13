@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="previews/nuvio-hero.svg?v=3.2" alt="Nuvio — Master Badge System" width="100%" />
+  <img src="previews/nuvio-hero.svg?v=v3.3.0" alt="Nuvio — Master Badge System" width="100%" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <sub>Next-generation media stream badge system crafted for Nuvio media player — 346 curated stream badges (455 master WebP assets with fallbacks & aliases) across 70+ global and regional streaming platforms, cinema studios, 4K/8K formats, spatial audio codecs, high-speed Debrid services, torrent indexers, and 100+ sovereign world languages and territories.<br/>Engineered for pure background-free playback, zero loading latency (~3.1 MB total footprint), and calibrated compact proportions for overflow-free TV, PC, and mobile viewing.</sub>
+  <sub>Next-generation media stream badge system crafted for Nuvio media player — 346 curated stream badges (455 master WebP assets with fallbacks & aliases) across 98+ global and regional streaming platforms, cinema studios, 4K/8K formats, spatial audio codecs, high-speed Debrid services, torrent indexers, and 110 sovereign world languages and territories.<br/>Engineered for pure background-free playback, zero loading latency (~3.1 MB total footprint), and calibrated compact proportions for overflow-free TV, PC, and mobile viewing.</sub>
 </p>
 
 ---
@@ -39,7 +39,7 @@ Every stream in Nuvio can be experienced across **10 radically distinct physical
 > Ultra-clean floating OLED typography with official Dolby and HDR branding
 
 <p align="center">
-  <img src="previews/preview-pristine.jpg?v=3.3" alt="Pristine Master" width="100%" />
+  <img src="previews/preview-pristine.jpg?v=v3.3.0" alt="Pristine Master" width="100%" />
 </p>
 
 ```text
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/badge
 > Double-shot mechanical keyboard keycaps with Cherry MX stems & concave dish legends
 
 <p align="center">
-  <img src="previews/preview-gmk-keycaps.jpg?v=3.3" alt="GMK Custom Keycaps" width="100%" />
+  <img src="previews/preview-gmk-keycaps.jpg?v=v3.3.0" alt="GMK Custom Keycaps" width="100%" />
 </p>
 
 ```text
@@ -65,7 +65,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/gmk-k
 > Translucent frosted pudding keycaps with intense dynamic RGB underglow
 
 <p align="center">
-  <img src="previews/preview-rgb-keycaps.jpg?v=3.3" alt="Neon RGB Pudding Keycaps" width="100%" />
+  <img src="previews/preview-rgb-keycaps.jpg?v=v3.3.0" alt="Neon RGB Pudding Keycaps" width="100%" />
 </p>
 
 ```text
@@ -78,7 +78,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/rgb-k
 > Authentic perforated box-office admission ticket stubs with 24K gold foil trim
 
 <p align="center">
-  <img src="previews/preview-cinema-ticket.jpg?v=3.3" alt="Vintage Cinema Ticket" width="100%" />
+  <img src="previews/preview-cinema-ticket.jpg?v=v3.3.0" alt="Vintage Cinema Ticket" width="100%" />
 </p>
 
 ```text
@@ -91,7 +91,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/cinem
 > Handcrafted jewelry metal badges with polished 24K gold brass edging & glossy enamel
 
 <p align="center">
-  <img src="previews/preview-enamel-pins.jpg?v=3.3" alt="Cloisonné Enamel Pins" width="100%" />
+  <img src="previews/preview-enamel-pins.jpg?v=v3.3.0" alt="Cloisonné Enamel Pins" width="100%" />
 </p>
 
 ```text
@@ -104,7 +104,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/ename
 > Authentic 1980s analog magnetic cassette labels with vintage tracking and barcode
 
 <p align="center">
-  <img src="previews/preview-vhs-tape.jpg?v=3.3" alt="Retro VHS Magnetic Tape" width="100%" />
+  <img src="previews/preview-vhs-tape.jpg?v=v3.3.0" alt="Retro VHS Magnetic Tape" width="100%" />
 </p>
 
 ```text
@@ -117,7 +117,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/vhs-t
 > Real wooden movie production clapperboard with angled slate diagonal stripes
 
 <p align="center">
-  <img src="previews/preview-clapperboard.jpg?v=3.3" alt="Director Cinema Clapperboard" width="100%" />
+  <img src="previews/preview-clapperboard.jpg?v=v3.3.0" alt="Director Cinema Clapperboard" width="100%" />
 </p>
 
 ```text
@@ -130,7 +130,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/clapp
 > Vintage Japanese high-end vacuum fluorescent display with vivid glowing cyan phosphor
 
 <p align="center">
-  <img src="previews/preview-audiophile-vfd.jpg?v=3.3" alt="Audiophile Vacuum Fluorescent" width="100%" />
+  <img src="previews/preview-audiophile-vfd.jpg?v=v3.3.0" alt="Audiophile Vacuum Fluorescent" width="100%" />
 </p>
 
 ```text
@@ -143,7 +143,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/audio
 > Distressed industrial cyberpunk inspection tags with hazard accents
 
 <p align="center">
-  <img src="previews/preview-neotokyo-tag.jpg?v=3.3" alt="Neo-Tokyo Cyberpunk Tag" width="100%" />
+  <img src="previews/preview-neotokyo-tag.jpg?v=v3.3.0" alt="Neo-Tokyo Cyberpunk Tag" width="100%" />
 </p>
 
 ```text
@@ -156,7 +156,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/neoto
 > Luxurious hand-stitched archival leather binding with genuine 24K gold foil stamping
 
 <p align="center">
-  <img src="previews/preview-criterion-leather.jpg?v=3.3" alt="Criterion Archival Leather" width="100%" />
+  <img src="previews/preview-criterion-leather.jpg?v=v3.3.0" alt="Criterion Archival Leather" width="100%" />
 </p>
 
 ```text
