@@ -4,15 +4,15 @@
 
 <p align="center">
   <a href="https://github.com/jayedanik/nuvio-badges"><img src="https://img.shields.io/badge/System-Nuvio_Master_Badges-00f2fe?style=flat-square" alt="Nuvio" /></a>
-  <a href="badges.json"><img src="https://img.shields.io/badge/Collection-441_Master_Badges-9b51e0?style=flat-square" alt="Badges" /></a>
+  <a href="badges.json"><img src="https://img.shields.io/badge/Collection-455_Master_Badges-9b51e0?style=flat-square" alt="Badges" /></a>
   <a href="#theme-universes"><img src="https://img.shields.io/badge/Themes-10_Universes-f59e0b?style=flat-square" alt="Themes" /></a>
   <a href="badges.json"><img src="https://img.shields.io/badge/Scale-96px_Native-00ff88?style=flat-square" alt="96px Scale" /></a>
-  <a href="#performance-architecture"><img src="https://img.shields.io/badge/Footprint-3.7_MB_Total-ff007f?style=flat-square" alt="Size" /></a>
+  <a href="#performance-architecture"><img src="https://img.shields.io/badge/Footprint-3.1_MB_Total-ff007f?style=flat-square" alt="Size" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-ffd700?style=flat-square" alt="License" /></a>
 </p>
 
 <p align="center">
-  <sub>Next-generation media stream badge system crafted for Nuvio media player — 441 master badges across 70+ global and regional streaming platforms, cinema studios, 4K/8K formats, spatial audio codecs, and 100+ sovereign world languages and territories.<br/>Engineered for pure background-free playback, zero loading latency (~3.7 MB total footprint), and calibrated compact proportions for overflow-free TV, PC, and mobile viewing.</sub>
+  <sub>Next-generation media stream badge system crafted for Nuvio media player — 455 master badges across 70+ global and regional streaming platforms, cinema studios, 4K/8K formats, spatial audio codecs, high-speed Debrid services, torrent indexers, and 100+ sovereign world languages and territories.<br/>Engineered for pure background-free playback, zero loading latency (~3.1 MB total footprint), and calibrated compact proportions for overflow-free TV, PC, and mobile viewing.</sub>
 </p>
 
 ---
@@ -168,11 +168,38 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/criterion-leather.
 
 Built from the ground up to ensure Nuvio player operates at **maximum frame rates with zero loading latency or memory pressure**:
 
-* **Feather-Light Footprint:** The entire 441-badge collection weighs just **3.75 MB** (~8.1 KB average per badge).
-* **Instant In-Memory Caching:** Any movie or TV stream displays at most 8–13 badges (~60–90 KB total data). Once downloaded, Nuvio caches them in memory instantly.
+* **Feather-Light Footprint:** The entire 455-badge collection weighs just **3.07 MB** (~6.9 KB average per badge).
+* **Instant In-Memory Caching:** Any movie or TV stream displays at most 6–8 badges (~40–60 KB total data). Once downloaded, Nuvio caches them in memory instantly.
 * **Pre-Rendered 96px Standard:** Every badge is rendered to the exact native 96px canvas height with calibrated horizontal margins. The player performs zero on-the-fly resizing or heavy CPU scaling, guaranteeing butter-smooth 60/120 FPS playback.
-* **Zero Player Clipping Guarantee:** Every badge is engineered with compact optical bounding boxes, preventing horizontal flex overflow or cutoff in Nuvio player across Mobile, Tablet, PC, and 4K TV screens.
+* **Zero Player Clipping Guarantee:** Intelligent deduplication regex filters (e.g. prioritizing Dolby Vision over generic HDR, and Dolby Atmos over DDP) eliminate visual redundancy and prevent horizontal container overflow or edge cutoff across Mobile, Tablet, PC, and 4K TV screens.
 * **100% Background-Free (`#00000000`):** Transparent alpha channels with zero artificial drop-shadow blobs or black bounding boxes, eliminating GPU compositing overhead.
+
+---
+
+## High-Speed Debrid Services
+
+| Badge | Service | File | Status |
+|:-----:|:--------|:-----|:-------|
+| <img src="badges/torbox.webp" height="28" alt="TorBox" /> | **TorBox** | `torbox.webp` | Official Vector Logo |
+| <img src="badges/realdebrid.webp" height="28" alt="Real-Debrid" /> | **Real-Debrid** | `realdebrid.webp` | Official Shield Logo |
+| <img src="badges/alldebrid.webp" height="28" alt="AllDebrid" /> | **AllDebrid** | `alldebrid.webp` | Official Infinity Cloud Logo |
+| <img src="badges/premiumize.webp" height="28" alt="Premiumize" /> | **Premiumize** | `premiumize.webp` | Official Cloud Logo |
+| <img src="badges/debridlink.webp" height="28" alt="Debrid-Link" /> | **Debrid-Link** | `debridlink.webp` | Official Brand Logo |
+
+---
+
+## Torrent Trackers & Indexers
+
+| Badge | Tracker / Indexer | File | Status |
+|:-----:|:------------------|:-----|:-------|
+| <img src="badges/1337x.webp" height="28" alt="1337x" /> | **1337x** | `1337x.webp` | Official Wordmark Logo |
+| <img src="badges/rarbg.webp" height="28" alt="RARBG" /> | **RARBG** | `rarbg.webp` | Official Shield Logo |
+| <img src="badges/piratebay.webp" height="28" alt="The Pirate Bay" /> | **The Pirate Bay** | `piratebay.webp` | Official Galleon Ship Logo |
+| <img src="badges/yts.webp" height="28" alt="YTS" /> | **YTS / YIFY** | `yts.webp` | Official Film Reel Logo |
+| <img src="badges/eztv.webp" height="28" alt="EZTV" /> | **EZTV** | `eztv.webp` | Official TV Antenna Logo |
+| <img src="badges/torrentgalaxy.webp" height="28" alt="TorrentGalaxy" /> | **TorrentGalaxy (TGx)** | `torrentgalaxy.webp` | Official Cosmic Wordmark |
+| <img src="badges/rutracker.webp" height="28" alt="RuTracker" /> | **RuTracker** | `rutracker.webp` | Official Globe Logo |
+| <img src="badges/nyaa.webp" height="28" alt="Nyaa" /> | **Nyaa** | `nyaa.webp` | Official Anime Mascot Logo |
 
 ---
 
