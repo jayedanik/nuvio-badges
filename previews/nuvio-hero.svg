@@ -87,8 +87,11 @@
       <!-- Brand Typography (Perfect Vertical Alignment with Logo) -->
       <g transform="translate(455, 56)">
         <!-- NUVIO Title -->
-        <text x="0" y="50" font-family="'JetBrains Sans', 'Inter', -apple-system, sans-serif" font-weight="800" font-size="52" fill="#ffffff" letter-spacing="1.5">NUVIO</text>
-        <text x="220" y="50" font-family="'JetBrains Sans', 'Inter', -apple-system, sans-serif" font-weight="700" font-size="20" fill="url(#accent-glow)" letter-spacing="3">BADGE KIT</text>
+        <text x="0" y="50" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="800" font-size="50" fill="#ffffff" letter-spacing="1">NUVIO</text>
+        <g transform="translate(195, 20)">
+          <rect width="130" height="32" rx="8" fill="rgba(0, 242, 254, 0.08)" stroke="#00f2fe" stroke-width="1.5" stroke-opacity="0.4"/>
+          <text x="65" y="21" text-anchor="middle" font-family="'Segoe UI', -apple-system, sans-serif" font-weight="800" font-size="13" fill="#00f2fe" letter-spacing="2.5">BADGE KIT</text>
+        </g>
         
         <!-- Subtitle -->
         <text x="2" y="80" font-family="'JetBrains Sans', 'Inter', -apple-system, sans-serif" font-weight="500" font-size="14.5" fill="#8b949e" letter-spacing="4.5">10 HANDCRAFTED THEMES • 395 STREAM BADGES</text>
