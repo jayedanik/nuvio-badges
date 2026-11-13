@@ -17,25 +17,6 @@
 
 ---
 
-## Installation & Setup
-
-Add any of the curated theme universes directly into **Nuvio Player → Settings → Markers / Badges → Custom Manifest URL**:
-
-| Theme Universe | Material Architecture | Direct 1-Click Manifest URL |
-|:---------------|:----------------------|:----------------------------|
-| **Pristine Master** (Default) | Floating OLED Typography | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json` |
-| **GMK Custom Keycaps** | Double-Shot PBT Dish Hardware | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/gmk-keycaps.json` |
-| **Neon RGB Pudding Keycaps** | Translucent Chroma Underglow | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/rgb-keycaps.json` |
-| **Vintage Cinema Ticket** | Perforated 24K Gold Stub | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/cinema-ticket.json` |
-| **Cloisonné Enamel Pins** | Cast Jewelry Brass Rim | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/enamel-pins.json` |
-| **Retro VHS Magnetic Tape** | 1980s Analog Paper Label | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/vhs-tape.json` |
-| **Director Cinema Clapperboard** | Hollywood Studio Chevron Top | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/clapperboard.json` |
-| **Audiophile Vacuum Fluorescent** | Hi-Fi Cyan Phosphor Glass | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/audiophile-vfd.json` |
-| **Neo-Tokyo Cyberpunk Tag** | Shibuya Hazard Techwear | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/neotokyo-tag.json` |
-| **Criterion Archival Leather** | Debossed Saddle Gold Foil | `https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/criterion-leather.json` |
-
----
-
 ## Theme Architecture & Ecosystem
 
 Every stream in Nuvio can be experienced across **10 radically distinct physical material universes**. Rather than a static look, choose an aesthetic that matches your personal theater setup:
