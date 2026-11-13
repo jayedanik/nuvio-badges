@@ -1617,19 +1617,6 @@
    "type": "filter"
   },
   {
-   "id": "dv-only",
-   "groupId": "hdr",
-   "name": "DV only (no fallback)",
-   "pattern": "(?i)^(?=.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?!.*\\b(?:hdr(?:10)?(?:\\+|plus)?|hlg)(?![a-z]))",
-   "imageURL": "https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/themes/rgb-keycaps/badges/dv-only.webp",
-   "tagColor": "#00000000",
-   "borderColor": "#00000000",
-   "textColor": "#FFFFFF",
-   "tagStyle": "filled",
-   "isEnabled": false,
-   "type": "filter"
-  },
-  {
    "id": "imax-enhanced",
    "groupId": "hdr",
    "name": "IMAX Enhanced",
