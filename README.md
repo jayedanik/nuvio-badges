@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="previews/nuvio-hero.svg?v=346" alt="Nuvio — Master Badge System" width="100%" />
+  <img src="previews/nuvio-hero.svg?v=3.2" alt="Nuvio — Master Badge System" width="100%" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ Every stream in Nuvio can be experienced across **10 radically distinct physical
 
 ## Theme Universes
 
-### 01. Pristine Master (Default)
+### Pristine Master (Default)
 > Ultra-clean floating OLED typography with official Dolby and HDR branding
 
 <p align="center">
@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/badge
 
 ---
 
-### 02. GMK Custom Keycaps
+### GMK Custom Keycaps
 > Double-shot mechanical keyboard keycaps with Cherry MX stems & concave dish legends
 
 <p align="center">
@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/gmk-k
 
 ---
 
-### 03. Neon RGB Pudding Keycaps
+### Neon RGB Pudding Keycaps
 > Translucent frosted pudding keycaps with intense dynamic RGB underglow
 
 <p align="center">
@@ -74,7 +74,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/rgb-k
 
 ---
 
-### 04. Vintage Cinema Ticket
+### Vintage Cinema Ticket
 > Authentic perforated box-office admission ticket stubs with 24K gold foil trim
 
 <p align="center">
@@ -87,7 +87,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/cinem
 
 ---
 
-### 05. Cloisonné Enamel Pins
+### Cloisonné Enamel Pins
 > Handcrafted jewelry metal badges with polished 24K gold brass edging & glossy enamel
 
 <p align="center">
@@ -100,7 +100,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/ename
 
 ---
 
-### 06. Retro VHS Magnetic Tape
+### Retro VHS Magnetic Tape
 > Authentic 1980s analog magnetic cassette labels with vintage tracking and barcode
 
 <p align="center">
@@ -113,7 +113,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/vhs-t
 
 ---
 
-### 07. Director Cinema Clapperboard
+### Director Cinema Clapperboard
 > Real wooden movie production clapperboard with angled slate diagonal stripes
 
 <p align="center">
@@ -126,7 +126,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/clapp
 
 ---
 
-### 08. Audiophile Vacuum Fluorescent
+### Audiophile Vacuum Fluorescent
 > Vintage Japanese high-end vacuum fluorescent display with vivid glowing cyan phosphor
 
 <p align="center">
@@ -139,7 +139,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/audio
 
 ---
 
-### 09. Neo-Tokyo Cyberpunk Tag
+### Neo-Tokyo Cyberpunk Tag
 > Distressed industrial cyberpunk inspection tags with hazard accents
 
 <p align="center">
@@ -152,7 +152,7 @@ https://raw.githubusercontent.com/jayedanik/nuvio-master-badge-system/main/neoto
 
 ---
 
-### 10. Criterion Archival Leather
+### Criterion Archival Leather
 > Luxurious hand-stitched archival leather binding with genuine 24K gold foil stamping
 
 <p align="center">
