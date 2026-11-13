@@ -59,6 +59,10 @@ Every stream in Nuvio can be experienced across **10 radically distinct physical
   <img src="previews/preview-pristine.jpg" alt="Pristine Master" width="100%" />
 </p>
 
+```text
+https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/badges.json
+```
+
 ---
 
 ### 02. GMK Custom Keycaps
@@ -67,6 +71,10 @@ Every stream in Nuvio can be experienced across **10 radically distinct physical
 <p align="center">
   <img src="previews/preview-gmk-keycaps.jpg" alt="GMK Custom Keycaps" width="100%" />
 </p>
+
+```text
+https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/gmk-keycaps.json
+```
 
 ---
 
@@ -77,6 +85,10 @@ Every stream in Nuvio can be experienced across **10 radically distinct physical
   <img src="previews/preview-rgb-keycaps.jpg" alt="Neon RGB Pudding Keycaps" width="100%" />
 </p>
 
+```text
+https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/rgb-keycaps.json
+```
+
 ---
 
 ### 04. Vintage Cinema Ticket
@@ -85,6 +97,10 @@ Every stream in Nuvio can be experienced across **10 radically distinct physical
 <p align="center">
   <img src="previews/preview-cinema-ticket.jpg" alt="Vintage Cinema Ticket" width="100%" />
 </p>
+
+```text
+https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/cinema-ticket.json
+```
 
 ---
 
@@ -95,6 +111,10 @@ Every stream in Nuvio can be experienced across **10 radically distinct physical
   <img src="previews/preview-enamel-pins.jpg" alt="Cloisonné Enamel Pins" width="100%" />
 </p>
 
+```text
+https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/enamel-pins.json
+```
+
 ---
 
 ### 06. Retro VHS Magnetic Tape
@@ -103,6 +123,10 @@ Every stream in Nuvio can be experienced across **10 radically distinct physical
 <p align="center">
   <img src="previews/preview-vhs-tape.jpg" alt="Retro VHS Magnetic Tape" width="100%" />
 </p>
+
+```text
+https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/vhs-tape.json
+```
 
 ---
 
@@ -113,6 +137,10 @@ Every stream in Nuvio can be experienced across **10 radically distinct physical
   <img src="previews/preview-clapperboard.jpg" alt="Director Cinema Clapperboard" width="100%" />
 </p>
 
+```text
+https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/clapperboard.json
+```
+
 ---
 
 ### 08. Audiophile Vacuum Fluorescent
@@ -121,6 +149,10 @@ Every stream in Nuvio can be experienced across **10 radically distinct physical
 <p align="center">
   <img src="previews/preview-audiophile-vfd.jpg" alt="Audiophile Vacuum Fluorescent" width="100%" />
 </p>
+
+```text
+https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/audiophile-vfd.json
+```
 
 ---
 
@@ -131,6 +163,10 @@ Every stream in Nuvio can be experienced across **10 radically distinct physical
   <img src="previews/preview-neotokyo-tag.jpg" alt="Neo-Tokyo Cyberpunk Tag" width="100%" />
 </p>
 
+```text
+https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/neotokyo-tag.json
+```
+
 ---
 
 ### 10. Criterion Archival Leather
@@ -139,6 +175,10 @@ Every stream in Nuvio can be experienced across **10 radically distinct physical
 <p align="center">
   <img src="previews/preview-criterion-leather.jpg" alt="Criterion Archival Leather" width="100%" />
 </p>
+
+```text
+https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/criterion-leather.json
+```
 
 ---
 
