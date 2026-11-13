@@ -4,15 +4,15 @@
 
 <p align="center">
   <a href="https://github.com/jayedanik/nuvio-badges"><img src="https://img.shields.io/badge/System-Nuvio_Master_Badges-00f2fe?style=flat-square" alt="Nuvio" /></a>
-  <a href="badges.json"><img src="https://img.shields.io/badge/Collection-395_Master_Badges-9b51e0?style=flat-square" alt="Badges" /></a>
+  <a href="badges.json"><img src="https://img.shields.io/badge/Collection-441_Master_Badges-9b51e0?style=flat-square" alt="Badges" /></a>
   <a href="#theme-universes"><img src="https://img.shields.io/badge/Themes-10_Universes-f59e0b?style=flat-square" alt="Themes" /></a>
   <a href="badges.json"><img src="https://img.shields.io/badge/Scale-96px_Native-00ff88?style=flat-square" alt="96px Scale" /></a>
-  <a href="#performance-architecture"><img src="https://img.shields.io/badge/Footprint-2.6_MB_Total-ff007f?style=flat-square" alt="Size" /></a>
+  <a href="#performance-architecture"><img src="https://img.shields.io/badge/Footprint-3.7_MB_Total-ff007f?style=flat-square" alt="Size" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-ffd700?style=flat-square" alt="License" /></a>
 </p>
 
 <p align="center">
-  <sub>Next-generation media stream badge system crafted for Nuvio media player — 395 custom badges across 65+ streaming platforms, cinema studios, 4K/8K formats, spatial audio codecs, and 95 sovereign world languages.<br/>Engineered for pure background-free playback, zero loading latency (~2.6 MB total footprint), and optical TV/PC legibility.</sub>
+  <sub>Next-generation media stream badge system crafted for Nuvio media player — 441 master badges across 70+ global and regional streaming platforms, cinema studios, 4K/8K formats, spatial audio codecs, and 100+ sovereign world languages and territories.<br/>Engineered for pure background-free playback, zero loading latency (~3.7 MB total footprint), and calibrated compact proportions for overflow-free TV, PC, and mobile viewing.</sub>
 </p>
 
 ---
@@ -27,6 +27,7 @@ Every stream in Nuvio can be experienced across **10 radically distinct physical
 
 * **Zero CPU Overhead:** Every theme is pre-rendered at native 96px standard canvas height. Switching themes in Nuvio requires zero re-scaling or image reprocessing.
 * **100% Theme Harmonization:** Badges inside every theme (from 4K UHD and Dolby Vision to regional OTTs and Sovereign Flags) follow that theme's exact silhouette, borders, textures, and typography.
+* **Calibrated Zero-Clipping Proportions:** Laser-balanced aspect ratios ensure that even heavy 13+ stream rows (resolutions, multi-codecs, spatial audio, OTT, debrid, and languages) render seamlessly without container clipping or edge cutoff on any screen.
 * **Streamlined Memory Cache:** The entire multi-theme package is compressed with modern WebP technology, loading in fractions of a millisecond.
 
 ---
@@ -167,9 +168,10 @@ https://raw.githubusercontent.com/jayedanik/nuvio-badges/main/criterion-leather.
 
 Built from the ground up to ensure Nuvio player operates at **maximum frame rates with zero loading latency or memory pressure**:
 
-* **Feather-Light Footprint:** The entire 395-badge collection weighs just **2.64 MB** (~6.8 KB average per badge).
-* **Instant In-Memory Caching:** Any movie or TV stream displays at most 8–12 badges (~50–80 KB total data). Once downloaded, Nuvio caches them in memory instantly.
-* **Pre-Rendered 96px Standard:** Every badge is rendered to the exact native 96px canvas height. The player performs **zero on-the-fly resizing or heavy CPU scaling**, guaranteeing butter-smooth 60/120 FPS playback.
+* **Feather-Light Footprint:** The entire 441-badge collection weighs just **3.75 MB** (~8.1 KB average per badge).
+* **Instant In-Memory Caching:** Any movie or TV stream displays at most 8–13 badges (~60–90 KB total data). Once downloaded, Nuvio caches them in memory instantly.
+* **Pre-Rendered 96px Standard:** Every badge is rendered to the exact native 96px canvas height with calibrated horizontal margins. The player performs zero on-the-fly resizing or heavy CPU scaling, guaranteeing butter-smooth 60/120 FPS playback.
+* **Zero Player Clipping Guarantee:** Every badge is engineered with compact optical bounding boxes, preventing horizontal flex overflow or cutoff in Nuvio player across Mobile, Tablet, PC, and 4K TV screens.
 * **100% Background-Free (`#00000000`):** Transparent alpha channels with zero artificial drop-shadow blobs or black bounding boxes, eliminating GPU compositing overhead.
 
 ---
