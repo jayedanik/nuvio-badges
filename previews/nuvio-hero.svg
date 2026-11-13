@@ -223,7 +223,7 @@
       
       <!-- Stat 2: 10 Themes -->
       <g transform="translate(-40, 0)">
-        <text x="0" y="0" text-anchor="middle" class="stat-val" fill="url(#accent-glow)">10</text>
+        <text x="0" y="0" text-anchor="middle" class="stat-val" fill="url(#accent-glow)">11</text>
         <text x="0" y="18" text-anchor="middle" class="stat-lbl">THEMES</text>
       </g>
       
@@ -252,7 +252,7 @@
     <!-- Version tag -->
     <g transform="translate(1160, 30)">
       <rect x="-28" y="-10" width="56" height="20" rx="10" fill="none" stroke="#30363d" stroke-width="0.5"/>
-      <text x="0" y="4" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-weight="600" font-size="10" fill="#6e7681">v3.3.0</text>
+      <text x="0" y="4" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-weight="600" font-size="10" fill="#6e7681">v3.4.0</text>
     </g>
   </g>
 </svg>
