@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="previews/nuvio-hero.svg" alt="Nuvio — Master Badge System" width="100%" />
+  <img src="previews/nuvio-hero.svg?v=346" alt="Nuvio — Master Badge System" width="100%" />
 </p>
 
 <p align="center">
